@@ -1,0 +1,9 @@
+# No runtime dependencies required — this project uses the Python standard library.
+# If you later add third-party packages, list them here (one per line), for example:
+# pillow==10.0.0    # image handling
+# pandas==2.2.2     # dataframes / CSV processing
+# numpy==1.27.5     # numeric operations
+
+# To install optional runtime dependencies, uncomment the lines above and run:
+#   pip install -r requirements.txt
+

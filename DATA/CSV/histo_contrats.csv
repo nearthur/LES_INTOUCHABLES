@@ -1,0 +1,670 @@
+Type de Contrat,Date de signature,Date de fin,Durée Contrat (ans),Salaire annuel (€),Nom Joueur,Prénom Joueur,Date de naissance joueur,Age Joueur (à la signature),Nationalité Joueur,Poste Joueur,Pied Fort,Rôle dans l'équipe,Niveau geste technique (1-5),Niveau mauvais pied (1-5),Taille Joueur (cm),Poids Joueur (kg),Nom Agent,Prénom Agent,Nationalité Agent,Ancienneté au club (ans),Player ID
+CDD Sportif,1970-01-06,1973-01-15,3,1591000,Bentaleb,Baptiste,1943-10-14,26,Germany,DC,G,Remplaçant,2,3,184,75,Raiola,Marco,Italy,0.0,P00037
+CDD Sportif,1973-01-22,1978-01-28,5,2956000,Bentaleb,Baptiste,1943-10-14,29,Germany,DC,G,Titulaire indiscutable,2,3,184,75,Raiola,Marco,Italy,3.0,P00037
+CDD Sportif,1978-01-31,1981-01-31,3,1694000,Bentaleb,Baptiste,1943-10-14,34,Germany,DC,G,Remplaçant,2,3,184,75,Raiola,Marco,Italy,8.0,P00037
+CDD Sportif,2025-04-25,2028-05-02,3,643000,Bentaleb,Luis,2007-08-13,17,Spain,GK,D,Remplaçant,3,3,196,95,De la Croix,Pierre,France,0.0,P00235
+CDD Sportif,1985-02-19,1986-02-21,1,785000,Bentaleb-eira,Auasa,1966-04-27,18,Italy,DD,D,Titulaire indiscutable,2,2,192,91,Rosell,Yusef,Spain,0.0,P00091
+CDD Sportif,1986-03-25,1987-03-09,1,814000,Bentaleb-eira,Auasa,1966-04-27,19,Italy,DC,D,Remplaçant,2,2,192,91,Rosell,Yusef,Spain,1.0,P00091
+CDD Sportif,1987-03-19,1990-03-27,3,1117000,Bentaleb-eira,Auasa,1966-04-27,20,Italy,DC,D,Remplaçant,2,2,192,91,Rosell,Yusef,Spain,2.0,P00091
+CDD Sportif,1990-04-08,1994-03-20,4,2120000,Bentaleb-eira,Auasa,1966-04-27,23,Italy,DC,D,Titulaire,2,2,192,91,Rosell,Yusef,Spain,5.0,P00091
+CDD Sportif,2010-02-25,2011-02-25,1,480000,Bentaleb-escu,Baal,1994-06-10,15,Argentina,MG,G,Remplaçant,4,2,183,87,Morales,Karim,Spain,0.0,P00182
+CDD Sportif,2011-04-13,2015-04-23,4,951000,Bentaleb-escu,Baal,1994-06-10,16,Argentina,MG,G,Titulaire,4,2,183,87,Morales,Karim,Spain,1.0,P00182
+CDD Sportif,2015-06-12,2018-06-11,3,2112000,Bentaleb-escu,Baal,1994-06-10,21,Argentina,MG,G,Titulaire indiscutable,4,2,183,87,Morales,Karim,Spain,5.0,P00182
+CDD Sportif,2018-07-14,2022-07-06,4,2528000,Bentaleb-escu,Baal,1994-06-10,24,Argentina,MG,G,Titulaire,4,2,183,87,Morales,Karim,Spain,8.0,P00182
+CDD Sportif,2022-07-22,2024-07-30,2,2198000,Bentaleb-escu,Baal,1994-06-10,28,Argentina,MG,G,Remplaçant,3,2,183,87,Morales,Karim,Spain,12.0,P00182
+CDD Sportif,1970-03-25,1971-04-12,1,1395000,Bernard,Abdou,1939-07-19,30,France,MC,G,Remplaçant,3,1,178,75,Bozzo,Sacha,Italy,0.0,P00046
+CDD Sportif,1971-04-23,1975-05-05,4,2050000,Bernard,Abdou,1939-07-19,31,France,MD,G,Titulaire,3,1,178,75,Bozzo,Sacha,Italy,1.0,P00046
+CDD Sportif,2023-02-02,2024-01-17,1,506000,Bernard,Nathan,2005-03-21,17,Italy,MG,D,Remplaçant,3,1,177,79,Morales,Karim,Spain,0.0,P00227
+CDD Sportif,2024-02-03,2025-10-07,4,1170000,Bernard,Nathan,2005-03-21,18,Italy,MG,D,Titulaire indiscutable,3,1,177,79,Morales,Karim,Spain,1.0,P00227
+CDD Sportif,2017-02-15,2019-01-30,2,1091000,Bernard-ić,Raaau,1995-11-25,21,Spain,GK,D,Titulaire,2,1,191,93,Costa,Luis,Portugal,0.0,P00206
+CDD Sportif,2019-02-14,2021-02-07,2,1180000,Bernard-ić,Raaau,1995-11-25,23,Spain,GK,D,Reserviste,2,1,191,93,Costa,Luis,Portugal,2.0,P00206
+CDD Sportif,2021-02-24,2025-10-07,5,1977000,Bernard-ić,Raaau,1995-11-25,25,Spain,GK,D,Remplaçant,2,1,191,93,Costa,Luis,Portugal,4.0,P00206
+CDD Sportif,1971-01-02,1973-12-29,3,601000,Bianchi,Benjamin,1953-07-01,17,France,MG,D,Titulaire,2,1,184,75,Silva,David,Portugal,0.0,P00024
+CDD Sportif,1974-02-16,1977-02-22,3,1568000,Bianchi,Benjamin,1953-07-01,20,France,MG,D,Titulaire indiscutable,2,1,184,75,Silva,David,Portugal,3.0,P00024
+CDD Sportif,1977-04-17,1982-04-27,5,1764000,Bianchi,Benjamin,1953-07-01,23,France,MG,D,Remplaçant,2,1,184,75,Silva,David,Portugal,6.0,P00024
+CDD Sportif,1982-05-28,1985-06-04,3,3000000,Bianchi,Benjamin,1953-07-01,28,France,MG,D,Titulaire indiscutable,2,1,184,75,Silva,David,Portugal,11.0,P00024
+CDD Sportif,1985-06-11,1986-06-27,1,2604000,Bianchi,Benjamin,1953-07-01,31,France,MG,D,Titulaire indiscutable,2,1,184,75,Silva,David,Portugal,14.0,P00024
+CDD Sportif,1986-07-10,1989-07-04,3,2272000,Bianchi,Benjamin,1953-07-01,33,France,MG,D,Titulaire,2,1,184,75,Silva,David,Portugal,15.0,P00024
+CDD Sportif,1989-07-10,1989-09-27,3,1458000,Bianchi,Benjamin,1953-07-01,36,France,MG,D,Remplaçant,1,1,184,75,Silva,David,Portugal,18.0,P00024
+CDD Sportif,2015-03-24,2016-03-28,1,1534000,Bianchi,Ethan,1987-03-16,28,England,GK,D,Remplaçant,2,3,195,81,Zahavi,Miguel,Israel,0.0,P00198
+CDD Sportif,1990-02-08,1994-02-26,4,1263000,Bianchi,Luca,1969-09-16,20,Brazil,DC,G,Titulaire,4,3,178,74,Silva,David,Portugal,0.0,P00107
+CDD Sportif,1990-04-06,1991-04-02,1,936000,Bianchi-ski,Kiari,1968-12-06,21,Portugal,MD,D,Remplaçant,4,1,176,75,Zeroual,Samir,Morocco,0.0,P00108
+CDD Sportif,1991-04-14,1994-04-18,3,1149000,Bianchi-ski,Kiari,1968-12-06,22,Portugal,MD,D,Reserviste,4,2,176,75,Zeroual,Samir,Morocco,1.0,P00108
+CDD Sportif,1994-06-15,1995-07-02,1,2180000,Bianchi-ski,Kiari,1968-12-06,25,Portugal,MD,D,Titulaire,4,2,176,75,Zeroual,Samir,Morocco,4.0,P00108
+CDD Sportif,1995-07-17,1997-08-02,2,2446000,Bianchi-ski,Kiari,1968-12-06,26,Portugal,MD,D,Titulaire,4,2,176,75,Zeroual,Samir,Morocco,5.0,P00108
+CDD Sportif,1997-08-04,2001-07-25,4,3000000,Bianchi-ski,Kiari,1968-12-06,28,Portugal,MD,D,Titulaire indiscutable,4,2,176,75,Zeroual,Samir,Morocco,7.0,P00108
+CDD Sportif,2001-09-03,2003-08-30,2,2755000,Bianchi-ski,Kiari,1968-12-06,32,Portugal,MD,D,Titulaire indiscutable,4,2,176,75,Zeroual,Samir,Morocco,11.0,P00108
+CDD Sportif,1996-04-20,1999-04-11,3,2058000,Boufal,Antoine,1970-06-16,25,Algeria,GK,D,Titulaire indiscutable,3,2,184,76,De la Croix,Pierre,France,0.0,P00133
+CDD Sportif,1999-06-06,2002-06-03,3,1974000,Boufal,Antoine,1970-06-16,28,Algeria,GK,D,Remplaçant,3,2,184,76,De la Croix,Pierre,France,3.0,P00133
+CDD Sportif,1982-03-12,1984-03-20,2,1178000,Boufal,Tiago,1951-12-13,30,France,GK,G,Reserviste,2,1,190,85,Barnett,Jorge,UK,0.0,P00082
+CDD Sportif,1984-04-15,1986-04-11,2,1824000,Boufal,Tiago,1951-12-13,32,France,GK,G,Titulaire,2,1,190,85,Barnett,Jorge,UK,2.0,P00082
+CDD Sportif,1986-05-30,1988-02-26,5,1877000,Boufal,Tiago,1951-12-13,34,France,GK,G,Titulaire,2,1,190,85,Barnett,Jorge,UK,4.0,P00082
+CDD Sportif,1970-02-10,1973-02-19,3,1008000,Brahimi,Nabil,1946-05-04,23,France,BU,D,Reserviste,2,2,179,81,Giacomo,Daniel,Italy,0.0,P00059
+CDD Sportif,1973-03-11,1974-03-20,1,2064000,Brahimi,Nabil,1946-05-04,26,France,AD,D,Titulaire,2,2,179,81,Giacomo,Daniel,Italy,3.0,P00059
+CDD Sportif,1974-05-12,1976-05-15,2,2635000,Brahimi,Nabil,1946-05-04,28,France,AD,D,Titulaire indiscutable,2,2,179,81,Giacomo,Daniel,Italy,4.0,P00059
+CDD Sportif,1971-01-26,1973-01-11,2,1637000,Brahimi,Nicolás,1942-02-17,28,Spain,MG,D,Remplaçant,4,1,175,70,Mendes,Jean,Portugal,0.0,P00026
+CDD Sportif,1973-01-31,1975-01-12,2,1834000,Brahimi,Nicolás,1942-02-17,30,Spain,MG,D,Remplaçant,4,1,175,70,Mendes,Jean,Portugal,2.0,P00026
+CDD Sportif,1989-02-03,1990-02-06,1,1952000,Brahimi,Tom,1963-05-14,25,France,MOC,D,Titulaire indiscutable,4,2,176,66,Morales,Karim,Spain,0.0,P00105
+CDD Sportif,1970-03-01,1971-02-10,1,588000,Brahimi-azzi,Baena,1951-04-13,18,Brazil,MD,G,Remplaçant,3,1,168,61,Sissoko,Mino,France,0.0,P00049
+CDD Sportif,1975-03-28,1976-03-17,1,1594000,Brahimi-azzi,Baena,1951-04-13,23,Brazil,MD,G,Titulaire,3,1,168,61,Sissoko,Mino,France,1.0,P00049
+CDD Sportif,1978-09-22,1980-09-07,2,1525000,Brahimi-azzi,Baena,1951-04-13,27,Brazil,MD,G,Reserviste,3,1,168,61,Sissoko,Mino,France,2.0,P00049
+CDD Sportif,1980-10-15,1981-10-23,1,2578000,Brahimi-azzi,Baena,1951-04-13,29,Brazil,MD,G,Titulaire indiscutable,3,1,168,61,Sissoko,Mino,France,4.0,P00049
+CDD Sportif,1981-11-26,1983-12-03,2,1622000,Brahimi-azzi,Baena,1951-04-13,30,Brazil,MD,G,Reserviste,3,1,168,61,Sissoko,Mino,France,5.0,P00049
+CDD Sportif,2018-03-31,2020-04-07,2,1796000,Brahimi-escu,Oau,1993-06-18,24,Belgium,GK,D,Titulaire indiscutable,2,3,180,79,Ferreira,Hassan,Brazil,0.0,P00208
+CDD Sportif,2020-04-25,2022-04-06,2,2113000,Brahimi-escu,Oau,1993-06-18,26,Belgium,GK,D,Titulaire,2,3,180,79,Ferreira,Hassan,Brazil,2.0,P00208
+CDD Sportif,2022-05-28,2025-05-07,3,2067000,Brahimi-escu,Oau,1993-06-18,28,Belgium,GK,D,Remplaçant,3,3,180,79,Ferreira,Hassan,Brazil,4.0,P00208
+CDD Sportif,2007-03-21,2012-02-29,5,1456000,Brahimi-ski,Kaatheo,1984-07-26,22,France,MOC,D,Titulaire,2,3,174,61,Morales,Karim,Spain,0.0,P00175
+CDD Sportif,2012-03-30,2016-04-03,4,2939000,Brahimi-ski,Kaatheo,1984-07-26,27,France,MOC,D,Titulaire indiscutable,2,3,174,61,Morales,Karim,Spain,5.0,P00175
+CDD Sportif,1979-04-05,1983-04-21,4,496000,Camavinga,Miguel,1962-09-12,16,France,DD,D,Remplaçant,3,1,181,74,Mendes,Jean,Portugal,0.0,P00071
+CDD Sportif,1983-05-08,1985-04-25,2,1182000,Camavinga,Miguel,1962-09-12,20,France,DD,D,Remplaçant,3,1,181,74,Mendes,Jean,Portugal,4.0,P00071
+CDD Sportif,1985-05-22,1988-05-23,3,1580000,Camavinga,Miguel,1962-09-12,22,France,DD,D,Remplaçant,3,1,181,74,Mendes,Jean,Portugal,6.0,P00071
+CDD Sportif,1988-06-24,1991-07-07,3,1691000,Camavinga,Miguel,1962-09-12,25,France,DD,D,Reserviste,3,1,181,74,Mendes,Jean,Portugal,9.0,P00071
+CDD Sportif,1991-07-26,1993-07-14,2,2973000,Camavinga,Miguel,1962-09-12,28,France,DD,D,Titulaire indiscutable,3,1,181,74,Mendes,Jean,Portugal,12.0,P00071
+CDD Sportif,1993-08-31,1994-08-15,1,2002000,Camavinga,Miguel,1962-09-12,30,France,DD,D,Remplaçant,3,1,181,74,Mendes,Jean,Portugal,14.0,P00071
+CDD Sportif,2023-02-25,2025-03-06,2,1504000,Camavinga,Sadio,1999-06-17,23,Italy,AG,D,Titulaire,3,2,182,79,De la Croix,Pierre,France,0.0,P00226
+CDD Sportif,2025-04-01,2025-10-07,3,1765000,Camavinga,Sadio,1999-06-17,25,Italy,AG,D,Remplaçant,3,1,182,79,De la Croix,Pierre,France,2.0,P00226
+CDD Sportif,1995-03-14,1996-03-16,1,909000,Camavinga,Tom,1973-05-02,21,France,DC,D,Remplaçant,3,2,179,75,Bozzo,Sacha,Italy,0.0,P00128
+CDD Sportif,1996-05-13,1999-05-24,3,1998000,Camavinga,Tom,1973-05-02,23,France,DC,D,Titulaire indiscutable,3,2,179,75,Bozzo,Sacha,Italy,1.0,P00128
+CDD Sportif,1970-10-22,1973-10-28,3,1954000,Camavinga-aldi,Juatheo,1944-07-15,26,France,MD,D,Titulaire,4,1,176,68,Zahavi,Miguel,Israel,0.0,P00022
+CDD Sportif,1977-12-14,1979-12-30,2,1293000,Camavinga-aldi,Juatheo,1944-07-15,33,France,MD,D,Reserviste,4,1,176,68,Zahavi,Miguel,Israel,3.0,P00022
+CDD Sportif,1980-02-22,1981-02-15,1,1328000,Camavinga-aldi,Juatheo,1944-07-15,35,France,MD,D,Remplaçant,4,1,176,68,Zahavi,Miguel,Israel,5.0,P00022
+CDD Sportif,1996-02-15,2000-02-15,4,1350000,Camavinga-azzi,Quenana,1965-02-03,31,England,DG,D,Reserviste,4,1,189,91,Mendes,Jean,Portugal,0.0,P00134
+CDD Sportif,1970-01-21,1972-01-14,2,1179000,Conti,Kalidou,1937-08-23,32,France,AD,D,Reserviste,4,3,180,82,Sissoko,Mino,France,0.0,P00064
+CDD Sportif,1970-08-28,1972-09-15,2,1632000,Conti,Yanis,1939-04-11,31,Netherlands,MOC,G,Titulaire,2,1,179,67,Iaque,Matthias,Italy,0.0,P00027
+CDD Sportif,1992-03-17,1993-03-03,1,1724000,Costa,Marco,1967-04-18,24,Spain,AD,D,Titulaire indiscutable,2,2,176,76,Raiola,Marco,Italy,0.0,P00120
+CDD Sportif,1971-01-11,1973-12-27,3,1768000,Costa,Ousmane,1938-10-17,32,Netherlands,DG,D,Titulaire,4,2,186,87,Zahavi,Miguel,Israel,0.0,P00009
+CDD Sportif,1973-12-27,1974-12-22,1,1766000,Costa,Ousmane,1938-10-17,35,Netherlands,MG,D,Titulaire indiscutable,4,2,186,87,Zahavi,Miguel,Israel,3.0,P00009
+CDD Sportif,1975-01-12,1977-01-12,2,1273000,Costa,Ousmane,1938-10-17,36,Netherlands,MG,D,Remplaçant,4,2,186,87,Zahavi,Miguel,Israel,4.0,P00009
+CDD Sportif,1977-03-12,1977-08-17,2,1598000,Costa,Ousmane,1938-10-17,38,Netherlands,MG,D,Titulaire indiscutable,4,2,186,87,Zahavi,Miguel,Israel,6.0,P00009
+CDD Sportif,1993-01-22,1996-01-28,3,1229000,Costa-azzi,Baba,1969-12-10,23,France,DD,D,Remplaçant,3,1,179,76,De la Croix,Pierre,France,0.0,P00122
+CDD Sportif,1996-02-22,1999-02-12,3,2618000,Costa-azzi,Baba,1969-12-10,26,France,DD,D,Titulaire indiscutable,3,1,179,76,De la Croix,Pierre,France,3.0,P00122
+CDD Sportif,1999-03-03,2001-02-11,2,2417000,Costa-azzi,Baba,1969-12-10,29,France,DD,D,Titulaire,3,1,179,76,De la Croix,Pierre,France,6.0,P00122
+CDD Sportif,2001-02-24,2003-02-18,2,2332000,Costa-azzi,Baba,1969-12-10,31,France,DD,D,Titulaire,3,1,179,76,De la Croix,Pierre,France,8.0,P00122
+CDD Sportif,1979-01-28,1984-01-18,5,912000,De Bruyne,Adrien,1962-04-18,16,France,BU,D,Titulaire indiscutable,4,3,182,80,Ferreira,Hassan,Brazil,0.0,P00070
+CDD Sportif,1984-02-25,1986-03-04,2,2042000,De Bruyne,Adrien,1962-04-18,21,France,BU,D,Titulaire indiscutable,4,3,182,80,Ferreira,Hassan,Brazil,5.0,P00070
+CDD Sportif,1986-04-26,1987-05-14,1,1508000,De Bruyne,Adrien,1962-04-18,24,France,BU,D,Reserviste,4,3,182,80,Ferreira,Hassan,Brazil,7.0,P00070
+CDD Sportif,1996-02-21,1999-02-14,3,580000,De Bruyne,Loïs,1980-12-24,15,Spain,DD,G,Remplaçant,4,3,189,84,Zahavi,Miguel,Israel,0.0,P00136
+CDD Sportif,1999-02-26,2000-02-15,1,1261000,De Bruyne,Loïs,1980-12-24,18,Spain,DD,G,Titulaire,4,3,189,84,Zahavi,Miguel,Israel,3.0,P00136
+CDD Sportif,2017-04-06,2021-03-28,4,531000,De Bruyne,Maxime,2000-10-21,16,Spain,DG,D,Remplaçant,2,3,187,70,Bolarinwa,Federico,Nigeria,0.0,P00205
+CDD Sportif,2021-04-12,2025-04-22,4,1112000,De Bruyne,Maxime,2000-10-21,20,Spain,DG,D,Reserviste,2,3,187,70,Bolarinwa,Federico,Nigeria,4.0,P00205
+CDD Sportif,2025-06-19,2025-10-07,3,2481000,De Bruyne,Maxime,2000-10-21,24,Spain,DG,D,Titulaire,3,3,187,70,Bolarinwa,Federico,Nigeria,8.0,P00205
+CDD Sportif,2020-04-07,2024-03-31,4,1628000,De Bruyne-ov,Diwor,1989-08-06,30,England,AG,D,Remplaçant,2,2,185,70,Giacomo,Daniel,Italy,0.0,P00212
+CDD Sportif,1970-10-11,1974-10-28,4,1203000,De Jong,Alexis,1948-06-07,22,Spain,DD,G,Remplaçant,3,2,183,70,De la Croix,Pierre,France,0.0,P00015
+CDD Sportif,1974-12-23,1976-12-26,2,2746000,De Jong,Alexis,1948-06-07,26,Spain,DD,G,Titulaire indiscutable,3,3,183,70,De la Croix,Pierre,France,4.0,P00015
+CDD Sportif,1977-02-10,1981-02-09,4,1915000,De Jong,Alexis,1948-06-07,28,Spain,DD,G,Reserviste,3,3,183,70,De la Croix,Pierre,France,6.0,P00015
+CDD Sportif,1981-03-21,1982-03-15,1,1569000,De Jong,Alexis,1948-06-07,32,Spain,DD,G,Reserviste,3,3,183,70,De la Croix,Pierre,France,10.0,P00015
+CDD Sportif,2020-02-28,2022-02-09,2,1325000,De Jong,Enzo,1995-10-04,24,Brazil,MD,D,Remplaçant,3,1,174,69,Sissoko,Mino,France,0.0,P00215
+CDD Sportif,1988-01-14,1991-01-25,3,1372000,De Jong,Luis,1955-07-04,32,Spain,DD,D,Remplaçant,2,2,184,73,Zahavi,Miguel,Israel,0.0,P00103
+CDD Sportif,1983-04-24,1988-04-19,5,2252000,De Jong-aldi,Luosa,1953-12-23,29,France,DG,G,Titulaire,4,3,180,73,Mendes,Jean,Portugal,0.0,P00087
+CDD Sportif,1992-03-03,1995-02-27,3,1710000,Diatta,Andrea,1964-11-18,27,Algeria,DC,D,Remplaçant,4,3,182,75,Bozzo,Sacha,Italy,0.0,P00115
+CDD Sportif,1971-01-19,1973-01-07,2,1261000,Diatta,Luca,1937-04-17,33,Brazil,MDC,D,Remplaçant,4,1,176,70,Morales,Karim,Spain,0.0,P00020
+CDD Sportif,1973-01-08,1974-06-18,2,1271000,Diatta,Luca,1937-04-17,35,Brazil,DC,D,Remplaçant,4,1,176,70,Morales,Karim,Spain,2.0,P00020
+CDD Sportif,2011-01-20,2013-02-07,2,1380000,Diatta,Nathan,1981-10-18,29,Spain,DC,D,Reserviste,4,2,183,75,Iaque,Matthias,Italy,0.0,P00184
+CDD Sportif,2013-02-13,2014-02-11,1,2362000,Diatta,Nathan,1981-10-18,31,Spain,DC,D,Titulaire indiscutable,4,2,183,75,Iaque,Matthias,Italy,2.0,P00184
+CDD Sportif,2014-04-03,2015-04-07,1,2316000,Diatta,Nathan,1981-10-18,32,Spain,DC,D,Titulaire indiscutable,4,2,183,75,Iaque,Matthias,Italy,3.0,P00184
+CDD Sportif,2015-05-27,2016-06-02,1,2228000,Diatta,Nathan,1981-10-18,33,Spain,DC,D,Titulaire indiscutable,4,2,183,75,Iaque,Matthias,Italy,4.0,P00184
+CDD Sportif,2016-06-04,2016-09-22,1,2167000,Diatta,Nathan,1981-10-18,34,Spain,DC,D,Titulaire indiscutable,4,3,183,75,Iaque,Matthias,Italy,5.0,P00184
+CDD Sportif,1997-04-18,2001-04-15,4,1457000,Diatta,Warren,1968-03-22,29,Spain,MC,D,Reserviste,4,1,180,70,Campos,Andrea,Portugal,0.0,P00138
+CDD Sportif,1971-01-29,1974-02-15,3,402000,Diatta-ov,Theoaad,1954-04-18,16,France,AG,D,Reserviste,3,1,170,60,Bozzo,Sacha,Italy,0.0,P00031
+CDD Sportif,1974-02-25,1979-03-09,5,1005000,Diatta-ov,Theoaad,1954-04-18,19,France,AG,D,Reserviste,4,1,170,60,Bozzo,Sacha,Italy,3.0,P00031
+CDD Sportif,1979-04-30,1983-04-18,4,2119000,Diatta-ov,Theoaad,1954-04-18,25,France,AG,D,Remplaçant,4,1,170,60,Bozzo,Sacha,Italy,8.0,P00031
+CDD Sportif,1983-04-22,1986-04-23,3,3000000,Diatta-ov,Theoaad,1954-04-18,29,France,AG,D,Titulaire indiscutable,5,2,170,60,Bozzo,Sacha,Italy,12.0,P00031
+CDD Sportif,1986-06-11,1988-06-06,2,2550000,Diatta-ov,Theoaad,1954-04-18,32,France,AG,D,Titulaire,5,2,170,60,Bozzo,Sacha,Italy,15.0,P00031
+CDD Sportif,1988-06-14,1992-06-29,4,2472000,Diatta-ov,Theoaad,1954-04-18,34,France,AG,D,Titulaire,5,2,170,60,Bozzo,Sacha,Italy,17.0,P00031
+CDD Sportif,2020-04-21,2024-04-10,4,2437000,Diatta-ovic,Quenaau,1990-09-01,29,Portugal,BU,G,Titulaire indiscutable,4,2,173,75,Barnett,Jorge,UK,0.0,P00216
+CDD Sportif,2024-04-22,2025-10-07,2,2025000,Diatta-ovic,Quenaau,1990-09-01,33,Portugal,AD,G,Titulaire,4,2,173,75,Barnett,Jorge,UK,4.0,P00216
+CDD Sportif,1999-04-29,2004-05-01,5,535000,Diop,Aurélien,1983-11-20,15,Brazil,DC,D,Remplaçant,4,1,183,74,Zeroual,Samir,Morocco,0.0,P00147
+CDD Sportif,2004-06-18,2006-05-31,2,1317000,Diop,Aurélien,1983-11-20,20,Brazil,DC,D,Remplaçant,4,1,183,74,Zeroual,Samir,Morocco,5.0,P00147
+CDD Sportif,2006-06-02,2008-06-06,2,1675000,Diop,Aurélien,1983-11-20,22,Brazil,DC,D,Remplaçant,4,2,183,74,Zeroual,Samir,Morocco,7.0,P00147
+CDD Sportif,2008-06-21,2009-06-01,1,1879000,Diop,Aurélien,1983-11-20,24,Brazil,DD,D,Remplaçant,4,2,183,74,Zeroual,Samir,Morocco,9.0,P00147
+CDD Sportif,2009-06-06,2012-05-31,3,2211000,Diop,Aurélien,1983-11-20,25,Brazil,DD,D,Remplaçant,4,2,183,74,Zeroual,Samir,Morocco,10.0,P00147
+CDD Sportif,2012-07-26,2014-07-08,2,2875000,Diop,Aurélien,1983-11-20,28,Brazil,DD,D,Titulaire,4,3,183,74,Zeroual,Samir,Morocco,13.0,P00147
+CDD Sportif,2014-07-19,2019-07-30,5,3000000,Diop,Aurélien,1983-11-20,30,Brazil,DD,D,Titulaire indiscutable,4,3,183,74,Zeroual,Samir,Morocco,15.0,P00147
+CDD Sportif,2009-03-30,2010-04-02,1,1993000,Diop,Miguel,1980-08-08,28,Italy,MOC,D,Titulaire indiscutable,2,1,187,89,Costa,Luis,Portugal,0.0,P00179
+CDD Sportif,2010-05-11,2013-05-02,3,2420000,Diop,Miguel,1980-08-08,29,Italy,MOC,D,Titulaire indiscutable,2,1,187,89,Costa,Luis,Portugal,1.0,P00179
+CDD Sportif,1970-09-18,1973-09-14,3,2196000,Diop-ski,Kiera,1941-11-25,28,Brazil,MOC,D,Titulaire,4,3,184,74,Raiola,Marco,Italy,0.0,P00017
+CDD Sportif,1973-10-17,1975-11-03,2,2319000,Diop-ski,Kiera,1941-11-25,31,Brazil,MOC,D,Titulaire,4,3,184,74,Raiola,Marco,Italy,3.0,P00017
+CDD Sportif,1975-12-01,1976-11-26,1,1300000,Diop-ski,Kiera,1941-11-25,34,Brazil,MOC,D,Reserviste,4,3,184,74,Raiola,Marco,Italy,5.0,P00017
+CDD Sportif,1976-12-08,1977-11-28,1,1801000,Diop-ski,Kiera,1941-11-25,35,Brazil,MOC,D,Titulaire,4,3,184,74,Raiola,Marco,Italy,6.0,P00017
+CDD Sportif,1977-12-01,1978-12-05,1,1929000,Diop-ski,Kiera,1941-11-25,36,Brazil,MOC,D,Titulaire indiscutable,4,3,184,74,Raiola,Marco,Italy,7.0,P00017
+CDD Sportif,1971-01-11,1972-01-08,1,1769000,Dupont,Ismaïla,1939-04-24,31,Spain,DG,G,Titulaire,4,2,187,84,Barnett,Jorge,UK,0.0,P00007
+CDD Sportif,1972-02-17,1973-01-30,1,1508000,Dupont,Ismaïla,1939-04-24,32,Spain,DG,G,Remplaçant,4,2,187,84,Barnett,Jorge,UK,1.0,P00007
+CDD Sportif,1973-02-15,1975-02-06,2,1565000,Dupont,Ismaïla,1939-04-24,33,Spain,DG,G,Remplaçant,4,2,187,84,Barnett,Jorge,UK,2.0,P00007
+CDD Sportif,1975-03-28,1978-12-03,4,1547000,Dupont,Ismaïla,1939-04-24,35,Spain,DG,G,Remplaçant,4,2,187,84,Barnett,Jorge,UK,4.0,P00007
+CDD Sportif,1970-01-24,1974-02-02,4,1379000,Dupont,Luis,1949-04-17,20,Brazil,DG,D,Titulaire indiscutable,4,2,181,75,Campos,Andrea,Portugal,0.0,P00058
+CDD Sportif,1974-03-19,1975-03-22,1,1719000,Dupont,Luis,1949-04-17,24,Brazil,DG,D,Remplaçant,4,2,181,75,Campos,Andrea,Portugal,4.0,P00058
+CDD Sportif,1975-05-08,1977-05-16,2,2493000,Dupont,Luis,1949-04-17,26,Brazil,DG,D,Titulaire,4,2,181,75,Campos,Andrea,Portugal,5.0,P00058
+CDD Sportif,1977-07-13,1981-07-24,4,3000000,Dupont,Luis,1949-04-17,28,Brazil,DG,D,Titulaire indiscutable,4,2,181,75,Campos,Andrea,Portugal,7.0,P00058
+CDD Sportif,1981-08-06,1985-08-23,4,2669000,Dupont,Luis,1949-04-17,32,Brazil,DG,D,Titulaire,4,2,181,75,Campos,Andrea,Portugal,11.0,P00058
+CDD Sportif,1985-09-04,1987-04-29,3,2044000,Dupont,Luis,1949-04-17,36,Brazil,DG,D,Titulaire,4,2,181,75,Campos,Andrea,Portugal,15.0,P00058
+CDD Sportif,1999-03-20,2003-03-25,4,369000,Dupont,Tiago,1983-06-13,15,France,DC,G,Reserviste,3,1,180,69,Bozzo,Sacha,Italy,0.0,P00144
+CDD Sportif,2022-01-14,2026-12-26,5,1442000,Dupont-ovic,Aletheo,1989-03-03,32,France,MOC,D,Remplaçant,3,1,174,66,Bozzo,Sacha,Italy,0.0,P00222
+CDD Sportif,2016-01-25,2020-01-15,4,1810000,Esposito,Antoine,1990-05-13,25,France,BU,D,Titulaire,2,2,179,79,Rosell,Yusef,Spain,0.0,P00201
+CDD Sportif,2020-02-13,2024-01-24,4,2482000,Esposito,Antoine,1990-05-13,29,France,AG,D,Titulaire,2,2,179,79,Rosell,Yusef,Spain,4.0,P00201
+CDD Sportif,2024-02-05,2025-10-07,2,2320000,Esposito,Antoine,1990-05-13,33,France,AG,D,Titulaire indiscutable,2,2,179,79,Rosell,Yusef,Spain,8.0,P00201
+CDD Sportif,2002-02-13,2004-01-25,2,1943000,Esposito,Diogo,1973-03-13,28,France,MG,D,Titulaire,4,1,182,71,Benchetrit,Francesco,France,0.0,P00157
+CDD Sportif,2004-03-06,2006-03-24,2,1419000,Esposito,Diogo,1973-03-13,31,France,MG,D,Reserviste,4,1,182,71,Benchetrit,Francesco,France,2.0,P00157
+CDD Sportif,1983-04-09,1985-04-11,2,875000,Fernandes,Jonathan,1962-08-09,20,France,DC,D,Remplaçant,3,3,184,75,Benchetrit,Francesco,France,0.0,P00083
+CDD Sportif,1988-04-19,1991-04-20,3,608000,Fernandes,Jonathan,1972-01-06,16,Brazil,DG,D,Titulaire indiscutable,2,1,179,76,De la Croix,Pierre,France,0.0,P00099
+CDD Sportif,1991-05-04,1995-05-05,4,1076000,Fernandes,Jonathan,1972-01-06,19,Brazil,DG,D,Remplaçant,2,1,179,76,De la Croix,Pierre,France,3.0,P00099
+CDD Sportif,2011-04-17,2013-04-27,2,1238000,Fernandes,Noah,1985-05-22,25,Spain,MDC,G,Reserviste,4,1,180,71,De la Croix,Pierre,France,0.0,P00185
+CDD Sportif,2013-06-22,2014-06-10,1,2253000,Fernandes,Noah,1985-05-22,28,Spain,MDC,G,Titulaire,4,2,180,71,De la Croix,Pierre,France,2.0,P00185
+CDD Sportif,2014-07-04,2016-07-06,2,2690000,Fernandes,Noah,1985-05-22,29,Spain,MDC,G,Titulaire indiscutable,3,2,180,71,De la Croix,Pierre,France,3.0,P00185
+CDD Sportif,2016-08-20,2018-09-05,2,1903000,Fernandes,Noah,1985-05-22,31,Spain,MDC,G,Remplaçant,3,2,180,71,De la Croix,Pierre,France,5.0,P00185
+CDD Sportif,2018-10-21,2020-10-15,2,1747000,Fernandes,Noah,1985-05-22,33,Spain,MDC,G,Remplaçant,3,2,180,71,De la Croix,Pierre,France,7.0,P00185
+CDD Sportif,1988-01-31,1991-01-12,3,1345000,Fernandes-ez,Alami,1961-08-13,26,Portugal,MDC,G,Reserviste,4,1,180,65,Mendes,Jean,Portugal,0.0,P00100
+CDD Sportif,1993-09-20,1995-10-04,2,2341000,Fernandes-ez,Alami,1961-08-13,32,Portugal,DC,G,Titulaire indiscutable,4,1,180,65,Mendes,Jean,Portugal,3.0,P00100
+CDD Sportif,1998-02-15,2002-02-09,4,929000,Fernandes-ian,Luolo,1980-12-01,17,Portugal,GK,D,Titulaire indiscutable,4,2,191,83,Raiola,Marco,Italy,0.0,P00143
+CDD Sportif,2002-02-18,2003-02-14,1,1335000,Fernandes-ian,Luolo,1980-12-01,21,Portugal,GK,D,Remplaçant,4,2,191,83,Raiola,Marco,Italy,4.0,P00143
+CDD Sportif,1999-04-22,2002-04-21,3,1640000,Fernandes-ini,Woreo,1970-09-02,28,Spain,MC,D,Remplaçant,2,2,175,74,Zahavi,Miguel,Israel,0.0,P00146
+CDD Sportif,2002-05-14,2003-05-10,1,2030000,Fernandes-ini,Woreo,1970-09-02,31,Spain,MC,D,Titulaire,2,2,175,74,Zahavi,Miguel,Israel,3.0,P00146
+CDD Sportif,2000-01-06,2001-01-02,1,801000,Fernandes-ovic,Loeju,1980-03-23,19,Italy,MOC,D,Titulaire,2,2,178,73,Iaque,Matthias,Italy,0.0,P00148
+CDD Sportif,2001-01-31,2003-02-19,2,806000,Fernandes-ovic,Loeju,1980-03-23,20,Italy,MOC,D,Reserviste,2,2,178,73,Iaque,Matthias,Italy,1.0,P00148
+CDD Sportif,1970-01-01,1972-12-23,3,1653000,Fernández,Marco,1943-07-24,26,Portugal,AD,D,Remplaçant,4,2,179,76,Bozzo,Sacha,Italy,0.0,P00044
+CDD Sportif,1973-01-13,1976-01-18,3,2053000,Fernández,Marco,1943-07-24,29,Portugal,AD,D,Remplaçant,4,2,179,76,Bozzo,Sacha,Italy,3.0,P00044
+CDD Sportif,1976-02-02,1979-02-07,3,2381000,Fernández,Marco,1943-07-24,32,Portugal,AD,D,Titulaire,4,2,179,76,Bozzo,Sacha,Italy,6.0,P00044
+CDD Sportif,1979-02-24,1979-10-10,4,1696000,Fernández,Marco,1943-07-24,35,Portugal,AD,D,Remplaçant,4,2,179,76,Bozzo,Sacha,Italy,9.0,P00044
+CDD Sportif,2016-01-15,2020-01-03,4,1643000,Fernández-azzi,Arioba,1988-10-05,27,England,AG,G,Remplaçant,2,1,179,70,Bozzo,Sacha,Italy,0.0,P00200
+CDD Sportif,2020-02-17,2024-02-29,4,2673000,Fernández-azzi,Arioba,1988-10-05,31,England,AG,G,Titulaire indiscutable,2,1,179,70,Bozzo,Sacha,Italy,4.0,P00200
+CDD Sportif,2024-03-14,2024-08-18,2,1999000,Fernández-azzi,Arioba,1988-10-05,35,England,AG,G,Titulaire indiscutable,2,1,179,70,Bozzo,Sacha,Italy,8.0,P00200
+CDD Sportif,1986-04-06,1988-04-24,2,1282000,Fernández-escu,Anoki,1954-09-13,31,England,MOC,D,Reserviste,4,2,186,72,Mendes,Jean,Portugal,0.0,P00096
+CDD Sportif,1983-03-06,1984-03-01,1,954000,Fernández-ić,Lomi,1959-06-25,23,Spain,BU,G,Reserviste,3,1,175,70,Barnett,Jorge,UK,0.0,P00085
+CDD Sportif,1984-04-09,1985-04-27,1,1472000,Fernández-ić,Lomi,1959-06-25,24,Spain,BU,G,Remplaçant,4,1,175,70,Barnett,Jorge,UK,1.0,P00085
+CDD Sportif,1985-05-13,1986-05-21,1,2313000,Fernández-ić,Lomi,1959-06-25,25,Spain,BU,G,Titulaire indiscutable,4,1,175,70,Barnett,Jorge,UK,2.0,P00085
+CDD Sportif,1996-01-02,2001-01-18,5,1450000,Fernández-son,Kioan,1967-10-13,28,France,GK,D,Reserviste,2,3,194,83,Bolarinwa,Federico,Nigeria,0.0,P00137
+CDD Sportif,2001-02-09,2003-02-14,2,1343000,Fernández-son,Kioan,1967-10-13,33,France,GK,D,Reserviste,2,3,194,83,Bolarinwa,Federico,Nigeria,5.0,P00137
+CDD Sportif,2003-03-02,2004-03-05,1,1660000,Fernández-son,Kioan,1967-10-13,35,France,GK,D,Titulaire,2,3,194,83,Bolarinwa,Federico,Nigeria,7.0,P00137
+CDD Sportif,1977-03-31,1981-03-17,4,964000,Fofana,Alexandre,1956-01-08,21,Spain,BU,D,Remplaçant,2,1,181,76,Bolarinwa,Federico,Nigeria,0.0,P00069
+CDD Sportif,1970-09-16,1974-09-29,4,1336000,Fofana,Warren,1950-02-17,20,England,MDC,D,Titulaire indiscutable,4,1,174,69,Antunes,Pini,Portugal,0.0,P00018
+CDD Sportif,1974-11-23,1976-11-27,2,2485000,Fofana,Warren,1950-02-17,24,England,MDC,D,Titulaire indiscutable,4,1,174,69,Antunes,Pini,Portugal,4.0,P00018
+CDD Sportif,1977-01-16,1980-01-18,3,2643000,Fofana,Warren,1950-02-17,26,England,MDC,D,Titulaire,4,1,174,69,Antunes,Pini,Portugal,6.0,P00018
+CDD Sportif,1980-02-01,1981-02-16,1,2901000,Fofana,Warren,1950-02-17,29,England,MDC,D,Titulaire indiscutable,4,1,174,69,Antunes,Pini,Portugal,9.0,P00018
+CDD Sportif,1981-03-12,1984-02-14,4,2756000,Fofana,Warren,1950-02-17,31,England,MDC,D,Titulaire,4,1,174,69,Antunes,Pini,Portugal,10.0,P00018
+CDD Sportif,1996-01-29,1997-01-17,1,1090000,Fofana,Yanis,1975-06-05,20,Argentina,MOC,D,Titulaire,4,3,170,66,Ferreira,Hassan,Brazil,0.0,P00130
+CDD Sportif,1997-01-22,1999-02-08,2,1223000,Fofana,Yanis,1975-06-05,21,Argentina,MOC,D,Remplaçant,4,3,170,66,Ferreira,Hassan,Brazil,1.0,P00130
+CDD Sportif,1991-02-01,1993-01-29,2,1816000,García,Jules,1963-07-05,27,Belgium,DG,D,Titulaire,2,2,179,67,Antunes,Pini,Portugal,0.0,P00112
+CDD Sportif,1997-04-03,1999-03-31,2,1195000,García,Jules,1963-07-05,33,Belgium,DG,D,Reserviste,2,3,179,67,Antunes,Pini,Portugal,2.0,P00112
+CDD Sportif,1999-05-07,2000-04-24,1,1516000,García,Jules,1963-07-05,35,Belgium,DG,D,Titulaire,2,3,179,67,Antunes,Pini,Portugal,4.0,P00112
+CDD Sportif,2000-05-27,2000-09-27,1,1170000,García,Jules,1963-07-05,36,Belgium,DG,D,Remplaçant,2,3,179,67,Antunes,Pini,Portugal,5.0,P00112
+CDD Sportif,2022-03-17,2024-03-13,2,1122000,García-ian,Anara,1999-04-27,22,Germany,MOC,G,Remplaçant,4,1,179,66,Morales,Karim,Spain,0.0,P00221
+CDD Sportif,2024-04-30,2025-04-19,1,1649000,García-ian,Anara,1999-04-27,25,Germany,MOC,G,Remplaçant,4,1,179,66,Morales,Karim,Spain,2.0,P00221
+CDD Sportif,1996-02-01,1998-01-30,2,1414000,Giroud,Antoine,1971-04-25,24,France,MC,D,Remplaçant,4,3,182,69,Rosell,Yusef,Spain,0.0,P00132
+CDD Sportif,1970-04-23,1971-04-05,1,505000,Giroud,Luca,1951-08-08,18,Netherlands,MC,G,Reserviste,3,2,176,72,Morales,Karim,Spain,0.0,P00062
+CDD Sportif,1971-05-26,1975-06-12,4,966000,Giroud,Luca,1951-08-08,19,Netherlands,MC,G,Remplaçant,3,2,176,72,Morales,Karim,Spain,1.0,P00062
+CDD Sportif,1975-08-06,1976-07-23,1,1659000,Giroud,Luca,1951-08-08,24,Netherlands,MC,G,Remplaçant,3,2,176,72,Morales,Karim,Spain,5.0,P00062
+CDD Sportif,1976-09-07,1977-09-26,1,2487000,Giroud,Luca,1951-08-08,25,Netherlands,MC,G,Titulaire indiscutable,3,2,176,72,Morales,Karim,Spain,6.0,P00062
+CDD Sportif,1977-11-09,1982-11-27,5,2731000,Giroud,Luca,1951-08-08,26,Netherlands,MC,G,Titulaire,3,2,176,72,Morales,Karim,Spain,7.0,P00062
+CDD Sportif,1983-01-13,1983-12-27,1,2751000,Giroud,Luca,1951-08-08,31,Netherlands,MC,G,Titulaire indiscutable,4,2,176,72,Morales,Karim,Spain,12.0,P00062
+CDD Sportif,1984-02-19,1985-09-27,5,1901000,Giroud,Luca,1951-08-08,32,Netherlands,MC,G,Reserviste,4,3,176,72,Morales,Karim,Spain,13.0,P00062
+CDD Sportif,2020-03-08,2024-02-23,4,766000,Giroud,Nabil,2003-06-26,16,Belgium,DC,D,Titulaire,4,3,187,83,Bolarinwa,Federico,Nigeria,0.0,P00214
+CDD Sportif,2024-04-09,2025-03-29,1,1567000,Giroud,Nabil,2003-06-26,20,Belgium,DC,D,Titulaire,5,3,187,83,Bolarinwa,Federico,Nigeria,4.0,P00214
+CDD Sportif,2025-04-28,2025-10-07,2,1845000,Giroud,Nabil,2003-06-26,21,Belgium,DC,D,Titulaire,5,3,187,83,Bolarinwa,Federico,Nigeria,5.0,P00214
+CDD Sportif,2004-04-17,2006-04-11,2,656000,Giroud,Pedro,1985-06-16,18,Spain,BU,D,Remplaçant,3,2,186,72,Iaque,Matthias,Italy,0.0,P00165
+CDD Sportif,2004-03-05,2009-03-13,5,2153000,Giroud,Warren,1976-05-02,27,France,MD,D,Titulaire,4,1,180,78,Barnett,Jorge,UK,0.0,P00167
+CDD Sportif,2009-05-06,2010-05-07,1,2174000,Giroud,Warren,1976-05-02,33,France,MD,D,Titulaire indiscutable,4,1,180,78,Barnett,Jorge,UK,5.0,P00167
+CDD Sportif,2010-05-30,2012-03-12,3,1364000,Giroud,Warren,1976-05-02,34,France,MD,D,Reserviste,4,1,180,78,Barnett,Jorge,UK,6.0,P00167
+CDD Sportif,2004-04-06,2006-04-20,2,713000,Giroud-ić,Oolu,1985-11-23,18,Netherlands,GK,G,Titulaire,2,2,191,77,Bolarinwa,Federico,Nigeria,0.0,P00162
+CDD Sportif,2006-04-30,2010-04-18,4,1378000,Giroud-ić,Oolu,1985-11-23,20,Netherlands,GK,G,Titulaire,2,2,191,77,Bolarinwa,Federico,Nigeria,2.0,P00162
+CDD Sportif,2010-04-19,2015-04-29,5,1936000,Giroud-ić,Oolu,1985-11-23,24,Netherlands,GK,G,Remplaçant,2,2,191,77,Bolarinwa,Federico,Nigeria,6.0,P00162
+CDD Sportif,1970-02-16,1972-02-19,2,2007000,Giroud-ovic,Luolu,1941-03-09,28,Portugal,GK,D,Titulaire,4,2,185,83,Silva,David,Portugal,0.0,P00063
+CDD Sportif,1972-03-17,1975-03-17,3,2254000,Giroud-ovic,Luolu,1941-03-09,31,Portugal,GK,D,Titulaire,4,2,185,83,Silva,David,Portugal,2.0,P00063
+CDD Sportif,1975-05-06,1977-04-25,2,1574000,Giroud-ovic,Luolu,1941-03-09,34,Portugal,GK,D,Remplaçant,4,2,185,83,Silva,David,Portugal,5.0,P00063
+CDD Sportif,1977-05-09,1979-01-26,2,1397000,Giroud-ovic,Luolu,1941-03-09,36,Portugal,GK,D,Remplaçant,4,2,185,83,Silva,David,Portugal,7.0,P00063
+CDD Sportif,2006-02-03,2007-01-19,1,927000,Gonçalves,Arthur,1984-02-18,21,France,MDC,D,Remplaçant,4,1,178,68,Giacomo,Daniel,Italy,0.0,P00172
+CDD Sportif,2007-01-21,2009-01-23,2,1053000,Gonçalves,Arthur,1984-02-18,22,France,MDC,D,Reserviste,4,1,178,68,Giacomo,Daniel,Italy,1.0,P00172
+CDD Sportif,2009-01-24,2010-02-06,1,2202000,Gonçalves,Arthur,1984-02-18,24,France,MDC,D,Titulaire indiscutable,4,1,178,68,Giacomo,Daniel,Italy,3.0,P00172
+CDD Sportif,2010-04-05,2012-04-13,2,1938000,Gonçalves,Arthur,1984-02-18,26,France,MDC,D,Remplaçant,4,2,178,68,Giacomo,Daniel,Italy,4.0,P00172
+CDD Sportif,2012-04-17,2014-04-04,2,2615000,Gonçalves,Arthur,1984-02-18,28,France,MDC,D,Titulaire,5,2,178,68,Giacomo,Daniel,Italy,6.0,P00172
+CDD Sportif,2014-05-23,2015-06-10,1,2475000,Gonçalves,Arthur,1984-02-18,30,France,MDC,D,Titulaire,5,2,178,68,Giacomo,Daniel,Italy,8.0,P00172
+CDD Sportif,2015-06-16,2018-06-06,3,2181000,Gonçalves,Arthur,1984-02-18,31,France,MDC,D,Remplaçant,5,2,178,68,Giacomo,Daniel,Italy,9.0,P00172
+CDD Sportif,2018-06-20,2021-12-05,4,2694000,Gonçalves,Arthur,1984-02-18,34,France,MDC,D,Titulaire indiscutable,5,2,178,68,Giacomo,Daniel,Italy,12.0,P00172
+CDD Sportif,2023-03-23,2027-04-06,4,1155000,Gonçalves,Loïs,2002-08-24,20,Brazil,AD,D,Titulaire indiscutable,2,1,180,82,Sissoko,Mino,France,0.0,P00228
+CDD Sportif,1977-03-29,1980-03-31,3,1598000,Gonçalves,Ousmane,1944-10-07,32,Portugal,AD,D,Titulaire,2,1,170,66,Mendes,Jean,Portugal,0.0,P00068
+CDD Sportif,1992-01-27,1995-01-21,3,2346000,Gonçalves,Sadio,1962-12-19,29,France,MD,G,Titulaire indiscutable,4,2,182,77,Campos,Andrea,Portugal,0.0,P00121
+CDD Sportif,1970-01-21,1971-01-17,1,1477000,Gonçalves,Tom,1940-02-20,29,France,MG,D,Remplaçant,3,2,180,79,Giacomo,Daniel,Italy,0.0,P00051
+CDD Sportif,1971-01-18,1973-01-25,2,1722000,Gonçalves,Tom,1940-02-20,30,France,MG,D,Remplaçant,4,2,180,79,Giacomo,Daniel,Italy,1.0,P00051
+CDD Sportif,1973-03-20,1976-03-20,3,2038000,Gonçalves,Tom,1940-02-20,33,France,MG,D,Titulaire,4,2,180,79,Giacomo,Daniel,Italy,3.0,P00051
+CDD Sportif,1988-03-03,1993-02-21,5,2034000,Gonçalves-opoulos,Adoal,1956-10-11,31,Brazil,MOC,D,Titulaire,4,1,176,74,Campos,Andrea,Portugal,0.0,P00102
+CDD Sportif,2011-03-19,2012-03-01,1,1148000,Gonçalves-opoulos,Kaemi,1980-11-12,30,Netherlands,AG,D,Reserviste,2,2,179,73,Ferreira,Hassan,Brazil,0.0,P00186
+CDD Sportif,2012-04-04,2015-04-14,3,1343000,Gonçalves-opoulos,Kaemi,1980-11-12,31,Netherlands,AG,D,Reserviste,2,2,179,73,Ferreira,Hassan,Brazil,1.0,P00186
+CDD Sportif,1997-04-03,1998-04-07,1,808000,Gouiri,Alban,1980-01-02,17,Spain,GK,D,Titulaire indiscutable,3,3,192,71,Bozzo,Sacha,Italy,0.0,P00141
+CDD Sportif,1998-05-30,2000-06-14,2,1053000,Gouiri,Alban,1980-01-02,18,Spain,GK,D,Titulaire,3,3,192,71,Bozzo,Sacha,Italy,1.0,P00141
+CDD Sportif,2000-07-18,2004-07-13,4,1377000,Gouiri,Alban,1980-01-02,20,Spain,GK,D,Remplaçant,3,4,192,71,Bozzo,Sacha,Italy,3.0,P00141
+CDD Sportif,2004-07-29,2009-07-12,5,2113000,Gouiri,Alban,1980-01-02,24,Spain,GK,D,Remplaçant,2,4,192,71,Bozzo,Sacha,Italy,7.0,P00141
+CDD Sportif,2009-08-22,2010-08-10,1,2130000,Gouiri,Alban,1980-01-02,29,Spain,GK,D,Remplaçant,2,4,192,71,Bozzo,Sacha,Italy,12.0,P00141
+CDD Sportif,2010-10-07,2011-10-04,1,2564000,Gouiri,Alban,1980-01-02,30,Spain,GK,D,Titulaire,2,4,192,71,Bozzo,Sacha,Italy,13.0,P00141
+CDD Sportif,2013-11-30,2016-12-06,3,2798000,Gouiri,Alban,1980-01-02,33,Spain,GK,D,Titulaire indiscutable,2,4,192,71,Bozzo,Sacha,Italy,14.0,P00141
+CDD Sportif,1983-03-24,1984-03-16,1,762000,Gouiri,Kylian,1962-07-01,20,France,MD,D,Remplaçant,3,1,165,62,Rosell,Yusef,Spain,0.0,P00086
+CDD Sportif,1984-05-09,1985-05-17,1,1479000,Gouiri,Kylian,1962-07-01,21,France,MD,D,Titulaire indiscutable,3,2,165,62,Rosell,Yusef,Spain,1.0,P00086
+CDD Sportif,1985-06-12,1987-07-01,2,1639000,Gouiri,Kylian,1962-07-01,22,France,MD,D,Titulaire,3,2,165,62,Rosell,Yusef,Spain,2.0,P00086
+CDD Sportif,2005-03-31,2009-04-09,4,779000,Gouiri-ovic,Raeju,1987-09-18,17,Brazil,DC,D,Titulaire indiscutable,2,2,189,88,Ortega,Farid,Spain,0.0,P00169
+CDD Sportif,2009-05-27,2010-05-20,1,1598000,Gouiri-ovic,Raeju,1987-09-18,21,Brazil,DC,D,Titulaire,3,2,189,88,Ortega,Farid,Spain,4.0,P00169
+CDD Sportif,2010-07-09,2011-07-25,1,1799000,Gouiri-ovic,Raeju,1987-09-18,22,Brazil,DC,D,Titulaire,3,2,189,88,Ortega,Farid,Spain,5.0,P00169
+CDD Sportif,1970-12-28,1974-12-22,4,1129000,Gómez,Jonathan,1948-10-06,22,France,DC,D,Remplaçant,3,1,180,77,Raiola,Marco,Italy,0.0,P00005
+CDD Sportif,1974-12-27,1977-12-08,3,2372000,Gómez,Jonathan,1948-10-06,26,France,DC,D,Titulaire,3,1,180,77,Raiola,Marco,Italy,4.0,P00005
+CDD Sportif,2007-03-10,2008-03-12,1,1188000,Gómez,Marco,1976-12-07,30,Portugal,BU,D,Reserviste,2,3,182,76,Barnett,Jorge,UK,0.0,P00176
+CDD Sportif,2019-01-27,2024-02-02,5,1109000,Gómez,Miguel,1998-12-02,20,Argentina,DC,D,Titulaire,3,1,189,89,Raiola,Marco,Italy,0.0,P00209
+CDD Sportif,1980-01-24,1983-01-06,3,1724000,Gómez,Youssef,1956-10-04,23,Argentina,MD,D,Titulaire indiscutable,3,1,172,70,Costa,Luis,Portugal,0.0,P00075
+CDD Sportif,1983-01-23,1985-02-01,2,2518000,Gómez,Youssef,1956-10-04,26,Argentina,MD,D,Titulaire indiscutable,3,1,172,70,Costa,Luis,Portugal,3.0,P00075
+CDD Sportif,1985-02-15,1986-02-23,1,1879000,Gómez,Youssef,1956-10-04,28,Argentina,AD,D,Remplaçant,3,1,172,70,Costa,Luis,Portugal,5.0,P00075
+CDD Sportif,1986-02-28,1987-03-08,1,1897000,Gómez,Youssef,1956-10-04,29,Argentina,AD,D,Remplaçant,3,1,172,70,Costa,Luis,Portugal,6.0,P00075
+CDD Sportif,1987-03-11,1991-03-04,4,1780000,Gómez,Youssef,1956-10-04,30,Argentina,AD,D,Reserviste,3,1,172,70,Costa,Luis,Portugal,7.0,P00075
+CDD Sportif,1991-03-20,1992-06-22,3,1788000,Gómez,Youssef,1956-10-04,34,Argentina,AD,D,Remplaçant,4,1,172,70,Costa,Luis,Portugal,11.0,P00075
+CDD Sportif,2002-03-09,2003-03-12,1,2009000,Gómez-azzi,Auaau,1971-10-22,30,France,DD,D,Titulaire indiscutable,4,1,179,81,Giacomo,Daniel,Italy,0.0,P00155
+CDD Sportif,2003-04-27,2005-05-15,2,1964000,Gómez-azzi,Auaau,1971-10-22,31,France,DD,D,Titulaire,4,1,179,81,Giacomo,Daniel,Italy,1.0,P00155
+CDD Sportif,2014-03-12,2016-03-14,2,1322000,Gómez-ić,Anean,1991-06-03,22,France,MC,D,Titulaire,3,2,182,70,Silva,David,Portugal,0.0,P00195
+CDD Sportif,2016-04-25,2018-05-12,2,1935000,Gómez-ić,Anean,1991-06-03,24,France,MG,D,Titulaire,3,2,182,70,Silva,David,Portugal,2.0,P00195
+CDD Sportif,2018-05-31,2022-05-30,4,2901000,Gómez-ić,Anean,1991-06-03,27,France,MG,D,Titulaire indiscutable,3,2,182,70,Silva,David,Portugal,4.0,P00195
+CDD Sportif,1999-02-10,2003-02-20,4,1612000,Hernandez,Baptiste,1971-07-16,27,Italy,DG,D,Remplaçant,2,1,178,74,Ortega,Farid,Spain,0.0,P00145
+CDD Sportif,2003-04-01,2005-03-24,2,1804000,Hernandez,Baptiste,1971-07-16,31,Italy,DG,D,Remplaçant,3,1,178,74,Ortega,Farid,Spain,4.0,P00145
+CDD Sportif,2005-04-13,2007-04-09,2,1717000,Hernandez,Baptiste,1971-07-16,33,Italy,DG,D,Remplaçant,4,1,178,74,Ortega,Farid,Spain,6.0,P00145
+CDD Sportif,2007-04-24,2010-04-17,3,1955000,Hernandez,Baptiste,1971-07-16,35,Italy,DG,D,Titulaire,4,1,178,74,Ortega,Farid,Spain,8.0,P00145
+CDD Sportif,2010-05-22,2011-01-06,3,1329000,Hernandez,Baptiste,1971-07-16,38,Italy,DG,D,Remplaçant,4,1,178,74,Ortega,Farid,Spain,11.0,P00145
+CDD Sportif,1970-03-26,1971-04-06,1,1798000,Hernandez,Kingsley,1942-05-10,27,Germany,DG,D,Titulaire,3,1,176,74,Mendes,Jean,Portugal,0.0,P00050
+CDD Sportif,2017-01-09,2019-01-03,2,2215000,Hernandez-azzi,Yoju,1986-09-26,30,France,DG,D,Titulaire indiscutable,4,3,187,74,Bolarinwa,Federico,Nigeria,0.0,P00207
+CDD Sportif,2019-02-04,2020-01-24,1,1590000,Hernandez-azzi,Yoju,1986-09-26,32,France,DG,D,Remplaçant,4,3,187,74,Bolarinwa,Federico,Nigeria,2.0,P00207
+CDD Sportif,2020-02-22,2022-03-09,2,1985000,Hernandez-azzi,Yoju,1986-09-26,33,France,DG,D,Titulaire,4,3,187,74,Bolarinwa,Federico,Nigeria,3.0,P00207
+CDD Sportif,1970-01-19,1971-01-23,1,475000,Hernandez-sen,Kaelo,1954-03-23,15,Netherlands,MDC,D,Remplaçant,4,2,189,86,De la Croix,Pierre,France,0.0,P00055
+CDD Sportif,2025-04-01,2028-04-18,3,2188000,Konaté,Antoine,1995-11-15,29,France,DD,D,Titulaire indiscutable,2,2,188,74,Barnett,Jorge,UK,0.0,P00232
+CDD Sportif,2015-02-01,2019-01-11,4,1986000,Konaté,Paul,1988-10-11,26,France,GK,G,Titulaire,3,2,189,87,Campos,Andrea,Portugal,0.0,P00197
+CDD Sportif,2019-01-12,2021-01-29,2,1884000,Konaté,Paul,1988-10-11,30,France,GK,G,Remplaçant,3,2,189,87,Campos,Andrea,Portugal,4.0,P00197
+CDD Sportif,2021-02-17,2024-03-03,3,2288000,Konaté,Paul,1988-10-11,32,France,GK,G,Titulaire,3,2,189,87,Campos,Andrea,Portugal,6.0,P00197
+CDD Sportif,1971-01-18,1974-12-30,4,1580000,Konaté-etti,Diotheo,1948-12-14,22,Belgium,DC,D,Titulaire indiscutable,2,3,186,77,Barnett,Jorge,UK,0.0,P00008
+CDD Sportif,1975-01-29,1979-01-10,4,1663000,Konaté-etti,Diotheo,1948-12-14,26,Belgium,DC,D,Reserviste,2,3,186,77,Barnett,Jorge,UK,4.0,P00008
+CDD Sportif,1983-03-01,1984-02-18,1,1399000,Koulibaly,Antoine,1959-04-03,23,Brazil,MG,D,Titulaire,3,1,177,74,Raiola,Marco,Italy,0.0,P00084
+CDD Sportif,1986-09-16,1987-09-17,1,1698000,Koulibaly,Antoine,1959-04-03,27,Brazil,MG,D,Remplaçant,4,1,177,74,Raiola,Marco,Italy,1.0,P00084
+CDD Sportif,1987-09-21,1991-09-29,4,2855000,Koulibaly,Antoine,1959-04-03,28,Brazil,MG,D,Titulaire indiscutable,4,1,177,74,Raiola,Marco,Italy,2.0,P00084
+CDD Sportif,1991-11-26,1996-05-12,5,2076000,Koulibaly,Antoine,1959-04-03,32,Brazil,MG,D,Remplaçant,4,1,177,74,Raiola,Marco,Italy,6.0,P00084
+CDD Sportif,1970-12-28,1975-12-23,5,1646000,Koulibaly,Diogo,1948-04-04,22,Brazil,BU,D,Titulaire indiscutable,2,2,182,70,Antunes,Pini,Portugal,0.0,P00035
+CDD Sportif,1979-02-20,1981-02-26,2,1563000,Koulibaly,Ruben,1951-11-01,27,Brazil,DC,D,Remplaçant,3,1,187,80,Raiola,Marco,Italy,0.0,P00073
+CDD Sportif,1981-03-01,1985-03-14,4,2415000,Koulibaly,Ruben,1951-11-01,29,Brazil,DC,D,Titulaire,3,1,187,80,Raiola,Marco,Italy,2.0,P00073
+CDD Sportif,1985-04-14,1986-05-01,1,1991000,Koulibaly,Ruben,1951-11-01,33,Brazil,DC,D,Titulaire,3,2,187,80,Raiola,Marco,Italy,6.0,P00073
+CDD Sportif,1986-06-19,1988-06-26,2,1979000,Koulibaly,Ruben,1951-11-01,34,Brazil,DG,D,Titulaire,3,2,187,80,Raiola,Marco,Italy,7.0,P00073
+CDD Sportif,1988-06-27,1990-07-11,2,1201000,Koulibaly,Ruben,1951-11-01,36,Brazil,DG,D,Reserviste,4,1,187,80,Raiola,Marco,Italy,9.0,P00073
+CDD Sportif,1990-08-28,1991-03-04,1,1687000,Koulibaly,Ruben,1951-11-01,38,Brazil,DG,D,Titulaire indiscutable,4,1,187,80,Raiola,Marco,Italy,11.0,P00073
+CDD Sportif,1970-10-24,1973-10-14,3,1653000,Koulibaly-ić,Maal,1941-12-12,28,Algeria,MDC,D,Remplaçant,4,1,176,67,Barnett,Jorge,UK,0.0,P00028
+CDD Sportif,1973-10-21,1976-09-28,3,2250000,Koulibaly-ić,Maal,1941-12-12,31,Algeria,MDC,D,Titulaire,4,1,176,67,Barnett,Jorge,UK,3.0,P00028
+CDD Sportif,1970-10-30,1972-11-05,2,800000,Koulibaly-ovic,Nana,1950-06-11,20,Germany,BU,G,Remplaçant,2,2,175,69,Raiola,Marco,Italy,0.0,P00036
+CDD Sportif,1972-12-06,1977-12-17,5,2041000,Koulibaly-ovic,Nana,1950-06-11,22,Germany,BU,G,Titulaire indiscutable,2,2,175,69,Raiola,Marco,Italy,2.0,P00036
+CDD Sportif,2001-04-11,2002-04-27,1,1070000,Koundé,Baptiste,1980-03-03,21,Netherlands,MDC,D,Titulaire,3,1,173,67,Rosell,Yusef,Spain,0.0,P00152
+CDD Sportif,2002-05-08,2003-05-27,1,1149000,Koundé,Baptiste,1980-03-03,22,Netherlands,MDC,D,Remplaçant,3,1,173,67,Rosell,Yusef,Spain,1.0,P00152
+CDD Sportif,1980-04-04,1982-04-21,2,1137000,Koundé,Tiago,1958-07-10,21,Belgium,DD,G,Titulaire,2,3,178,67,Mendes,Jean,Portugal,0.0,P00079
+CDD Sportif,1982-06-06,1983-06-11,1,1602000,Koundé,Tiago,1958-07-10,23,Belgium,DD,G,Titulaire,1,3,178,67,Mendes,Jean,Portugal,2.0,P00079
+CDD Sportif,2005-02-13,2010-01-25,5,487000,Koundé-escu,Anawor,1989-09-15,15,France,DG,G,Titulaire,2,1,178,76,Mendes,Jean,Portugal,0.0,P00170
+CDD Sportif,2010-03-03,2011-02-28,1,1112000,Koundé-escu,Anawor,1989-09-15,20,France,DG,G,Remplaçant,2,1,178,76,Mendes,Jean,Portugal,5.0,P00170
+CDD Sportif,1970-09-03,1974-09-11,4,1237000,Lacazette,Alban,1939-01-03,31,Spain,DG,D,Reserviste,2,1,180,79,Raiola,Marco,Italy,0.0,P00012
+CDD Sportif,1974-10-28,1976-10-19,2,1069000,Lacazette,Alban,1939-01-03,35,Spain,DG,D,Reserviste,2,1,180,79,Raiola,Marco,Italy,4.0,P00012
+CDD Sportif,2012-04-19,2014-04-25,2,1943000,Lacazette,Baptiste,1984-03-13,28,France,MD,G,Titulaire,4,1,187,74,Mendes,Jean,Portugal,0.0,P00188
+CDD Sportif,2014-06-05,2016-06-12,2,2244000,Lacazette,Baptiste,1984-03-13,30,France,MD,G,Titulaire,5,1,187,74,Mendes,Jean,Portugal,2.0,P00188
+CDD Sportif,2012-03-26,2014-03-26,2,542000,Lacazette,Benjamin,1995-07-14,16,Italy,DD,G,Remplaçant,3,3,180,67,Giacomo,Daniel,Italy,0.0,P00193
+CDD Sportif,2014-04-19,2018-05-06,4,856000,Lacazette,Benjamin,1995-07-14,18,Italy,DC,G,Reserviste,3,3,180,67,Giacomo,Daniel,Italy,2.0,P00193
+CDD Sportif,2018-06-30,2020-07-06,2,1340000,Lacazette,Benjamin,1995-07-14,22,Italy,DC,G,Reserviste,3,3,180,67,Giacomo,Daniel,Italy,6.0,P00193
+CDD Sportif,2020-07-15,2023-07-21,3,2591000,Lacazette,Benjamin,1995-07-14,25,Italy,DC,G,Titulaire,3,3,180,67,Giacomo,Daniel,Italy,8.0,P00193
+CDD Sportif,2023-07-23,2025-07-31,2,2200000,Lacazette,Benjamin,1995-07-14,28,Italy,DC,G,Remplaçant,3,2,180,67,Giacomo,Daniel,Italy,11.0,P00193
+CDD Sportif,2025-09-08,2025-10-07,3,3000000,Lacazette,Benjamin,1995-07-14,30,Italy,DC,G,Titulaire indiscutable,3,2,180,67,Giacomo,Daniel,Italy,13.0,P00193
+CDD Sportif,2006-03-11,2009-03-08,3,2111000,Lacazette,Jonathan,1974-09-13,31,Morocco,GK,G,Titulaire indiscutable,3,3,189,75,Raiola,Marco,Italy,0.0,P00174
+CDD Sportif,2009-04-28,2010-10-29,5,1603000,Lacazette,Jonathan,1974-09-13,34,Morocco,GK,G,Remplaçant,3,3,189,75,Raiola,Marco,Italy,3.0,P00174
+CDD Sportif,2006-02-27,2008-02-12,2,511000,Lacazette,Maxime,1990-06-10,15,Germany,AG,D,Titulaire,3,1,173,67,Mendes,Jean,Portugal,0.0,P00173
+CDD Sportif,2008-02-25,2011-02-26,3,1071000,Lacazette,Maxime,1990-06-10,17,Germany,AG,D,Titulaire,3,2,173,67,Mendes,Jean,Portugal,2.0,P00173
+CDD Sportif,1980-04-28,1985-04-17,5,1357000,Lacazette,Sergio,1954-03-09,26,Morocco,DG,D,Reserviste,3,1,180,73,Zeroual,Samir,Morocco,0.0,P00078
+CDD Sportif,2004-02-04,2009-02-06,5,1481000,Lacazette-azzi,Anba,1981-01-06,23,Germany,MC,D,Remplaçant,4,3,180,78,Silva,David,Portugal,0.0,P00164
+CDD Sportif,2009-03-28,2010-03-17,1,1683000,Lacazette-azzi,Anba,1981-01-06,28,Germany,MDC,D,Reserviste,4,3,180,78,Silva,David,Portugal,5.0,P00164
+CDD Sportif,1980-01-12,1981-01-29,1,1968000,Lombardi,Achraf,1951-01-24,28,Italy,BU,G,Titulaire,4,3,174,73,Bolarinwa,Federico,Nigeria,0.0,P00076
+CDD Sportif,1981-03-16,1982-03-09,1,2293000,Lombardi,Achraf,1951-01-24,30,Italy,BU,G,Titulaire indiscutable,3,3,174,73,Bolarinwa,Federico,Nigeria,1.0,P00076
+CDD Sportif,1982-04-13,1986-04-07,4,1895000,Lombardi,Achraf,1951-01-24,31,Italy,BU,G,Remplaçant,3,3,174,73,Bolarinwa,Federico,Nigeria,2.0,P00076
+CDD Sportif,1986-04-29,1989-05-11,3,1613000,Lombardi,Achraf,1951-01-24,35,Italy,BU,G,Remplaçant,4,3,174,73,Bolarinwa,Federico,Nigeria,6.0,P00076
+CDD Sportif,1989-06-23,1991-01-12,2,1800000,Lombardi,Achraf,1951-01-24,38,Italy,BU,G,Titulaire indiscutable,4,3,174,73,Bolarinwa,Federico,Nigeria,9.0,P00076
+CDD Sportif,1989-02-09,1994-02-07,5,868000,Lombardi-son,Quenora,1968-02-05,21,Portugal,DC,D,Reserviste,3,1,184,75,Bolarinwa,Federico,Nigeria,0.0,P00104
+CDD Sportif,1994-03-21,1995-03-27,1,1512000,Lombardi-son,Quenora,1968-02-05,26,Portugal,DC,D,Reserviste,3,1,184,75,Bolarinwa,Federico,Nigeria,5.0,P00104
+CDD Sportif,1971-01-28,1973-02-02,2,1249000,Lopez,Diogo,1947-11-18,23,Algeria,DG,D,Remplaçant,4,2,184,77,Antunes,Pini,Portugal,0.0,P00014
+CDD Sportif,1976-01-06,1978-12-16,3,1960000,Lopez,Diogo,1947-11-18,28,Algeria,DG,D,Remplaçant,4,2,184,77,Antunes,Pini,Portugal,2.0,P00014
+CDD Sportif,2021-02-20,2022-03-02,1,913000,Lopez,Nathan,2003-02-01,18,France,DD,G,Titulaire indiscutable,4,2,186,71,Morales,Karim,Spain,0.0,P00218
+CDD Sportif,2022-04-02,2025-04-15,3,1384000,Lopez,Nathan,2003-02-01,19,France,DD,G,Titulaire indiscutable,4,2,186,71,Morales,Karim,Spain,1.0,P00218
+CDD Sportif,2025-06-08,2025-10-07,5,2075000,Lopez,Nathan,2003-02-01,22,France,DD,G,Titulaire,4,2,186,71,Morales,Karim,Spain,4.0,P00218
+CDD Sportif,1988-03-18,1989-03-01,1,1718000,Lopez,Tom,1956-06-15,31,France,GK,G,Titulaire,4,2,190,78,Zahavi,Miguel,Israel,0.0,P00097
+CDD Sportif,1989-04-27,1991-05-08,2,1884000,Lopez,Tom,1956-06-15,32,France,GK,G,Titulaire,4,2,190,78,Zahavi,Miguel,Israel,1.0,P00097
+CDD Sportif,1970-01-21,1972-01-14,2,1677000,Lukaku,Alexis,1940-02-01,29,Italy,DC,D,Remplaçant,4,3,187,74,Sissoko,Mino,France,0.0,P00060
+CDD Sportif,1972-01-31,1973-02-01,1,1351000,Lukaku,Alexis,1940-02-01,32,Italy,DC,D,Reserviste,4,3,187,74,Sissoko,Mino,France,2.0,P00060
+CDD Sportif,1973-03-29,1974-04-10,1,1573000,Lukaku,Alexis,1940-02-01,33,Italy,DC,D,Remplaçant,4,3,187,74,Sissoko,Mino,France,3.0,P00060
+CDD Sportif,1974-04-26,1974-05-17,5,1773000,Lukaku,Alexis,1940-02-01,34,Italy,DC,D,Remplaçant,4,3,187,74,Sissoko,Mino,France,4.0,P00060
+CDD Sportif,2023-03-25,2027-03-28,4,2111000,Lukaku,Brice,1998-02-07,25,France,MC,D,Titulaire indiscutable,2,3,176,71,Barnett,Jorge,UK,0.0,P00225
+CDD Sportif,1970-10-01,1972-09-12,2,1494000,Mahrez,Hugo,1938-12-21,31,Argentina,GK,D,Remplaçant,4,2,178,74,Iaque,Matthias,Italy,0.0,P00001
+CDD Sportif,1972-09-20,1973-06-28,1,2025000,Mahrez,Hugo,1938-12-21,33,Argentina,GK,D,Titulaire indiscutable,4,2,178,74,Iaque,Matthias,Italy,2.0,P00001
+CDD Sportif,2003-04-05,2007-04-10,4,1540000,Mahrez,Tom,1977-06-11,25,France,MC,G,Remplaçant,3,2,177,75,Benchetrit,Francesco,France,0.0,P00158
+CDD Sportif,2007-06-04,2012-06-01,5,2579000,Mahrez,Tom,1977-06-11,30,France,MC,G,Titulaire,3,2,177,75,Benchetrit,Francesco,France,4.0,P00158
+CDD Sportif,2012-07-27,2014-08-08,2,2084000,Mahrez,Tom,1977-06-11,35,France,MC,G,Titulaire indiscutable,3,2,177,75,Benchetrit,Francesco,France,9.0,P00158
+CDD Sportif,2025-03-06,2027-03-21,2,2019000,Mahrez,Warren,1999-08-16,25,Germany,BU,D,Titulaire indiscutable,3,2,175,59,Mendes,Jean,Portugal,0.0,P00234
+CDD Sportif,2004-01-09,2005-01-22,1,525000,Mahrez-azzi,Kiasa,1988-12-08,15,Brazil,DG,D,Remplaçant,4,3,180,72,Iaque,Matthias,Italy,0.0,P00160
+CDD Sportif,2005-02-20,2009-02-18,4,1157000,Mahrez-azzi,Kiasa,1988-12-08,16,Brazil,DG,D,Titulaire indiscutable,4,3,180,72,Iaque,Matthias,Italy,1.0,P00160
+CDD Sportif,2009-04-06,2013-04-22,4,1837000,Mahrez-azzi,Kiasa,1988-12-08,20,Brazil,MG,D,Titulaire,4,3,180,72,Iaque,Matthias,Italy,5.0,P00160
+CDD Sportif,2013-04-26,2016-05-12,3,2586000,Mahrez-azzi,Kiasa,1988-12-08,24,Brazil,MG,D,Titulaire,4,3,180,72,Iaque,Matthias,Italy,9.0,P00160
+CDD Sportif,2016-05-28,2017-06-07,1,3000000,Mahrez-azzi,Kiasa,1988-12-08,27,Brazil,MG,D,Titulaire indiscutable,4,3,180,72,Iaque,Matthias,Italy,12.0,P00160
+CDD Sportif,2017-07-21,2021-08-02,4,3000000,Mahrez-azzi,Kiasa,1988-12-08,28,Brazil,MG,D,Titulaire,4,3,180,72,Iaque,Matthias,Italy,13.0,P00160
+CDD Sportif,1984-03-24,1986-03-15,2,1980000,Mahrez-opoulos,Diki,1958-10-10,25,France,DD,G,Titulaire indiscutable,3,2,182,70,Sissoko,Mino,France,0.0,P00089
+CDD Sportif,1986-04-17,1988-04-11,2,2519000,Mahrez-opoulos,Diki,1958-10-10,27,France,DD,G,Titulaire indiscutable,3,2,182,70,Sissoko,Mino,France,2.0,P00089
+CDD Sportif,1988-05-07,1989-05-24,1,1838000,Mahrez-opoulos,Diki,1958-10-10,29,France,DD,G,Remplaçant,3,2,182,70,Sissoko,Mino,France,4.0,P00089
+CDD Sportif,1989-06-22,1992-06-22,3,2024000,Mahrez-opoulos,Diki,1958-10-10,30,France,DD,G,Remplaçant,3,2,182,70,Sissoko,Mino,France,5.0,P00089
+CDD Sportif,1992-08-01,1995-04-14,3,2595000,Mahrez-opoulos,Diki,1958-10-10,33,France,DD,G,Titulaire indiscutable,4,2,182,70,Sissoko,Mino,France,8.0,P00089
+CDD Sportif,1998-01-23,1999-02-05,1,664000,Maignan,Youssef,1981-08-18,16,England,DD,D,Titulaire,4,2,188,83,Sissoko,Mino,France,0.0,P00142
+CDD Sportif,1999-04-01,2001-03-17,2,673000,Maignan,Youssef,1981-08-18,17,England,DD,D,Reserviste,4,2,188,83,Sissoko,Mino,France,1.0,P00142
+CDD Sportif,2001-04-28,2003-05-03,2,1344000,Maignan,Youssef,1981-08-18,19,England,DD,D,Titulaire,3,2,188,83,Sissoko,Mino,France,3.0,P00142
+CDD Sportif,2003-05-22,2007-06-07,4,1610000,Maignan,Youssef,1981-08-18,21,England,DD,D,Remplaçant,4,2,188,83,Sissoko,Mino,France,5.0,P00142
+CDD Sportif,2007-06-28,2010-07-11,3,2247000,Maignan,Youssef,1981-08-18,25,England,DD,D,Remplaçant,4,3,188,83,Sissoko,Mino,France,9.0,P00142
+CDD Sportif,2010-08-21,2011-08-31,1,2759000,Maignan,Youssef,1981-08-18,29,England,DD,D,Titulaire,4,4,188,83,Sissoko,Mino,France,12.0,P00142
+CDD Sportif,2011-09-14,2015-09-14,4,3000000,Maignan,Youssef,1981-08-18,30,England,DD,D,Titulaire indiscutable,4,4,188,83,Sissoko,Mino,France,13.0,P00142
+CDD Sportif,2015-09-14,2019-08-19,4,2183000,Maignan,Youssef,1981-08-18,34,England,DD,D,Remplaçant,5,4,188,83,Sissoko,Mino,France,17.0,P00142
+CDD Sportif,2009-02-04,2010-02-05,1,1531000,Maignan-eira,Baoju,1984-09-03,24,Argentina,DD,D,Titulaire,2,3,185,82,Raiola,Marco,Italy,0.0,P00178
+CDD Sportif,1980-01-12,1981-01-15,1,1202000,Maignan-ov,Anatheo,1952-08-02,27,France,DC,D,Reserviste,3,1,182,61,Zahavi,Miguel,Israel,0.0,P00077
+CDD Sportif,1981-02-21,1985-02-27,4,1835000,Maignan-ov,Anatheo,1952-08-02,28,France,DC,D,Remplaçant,3,1,182,61,Zahavi,Miguel,Israel,1.0,P00077
+CDD Sportif,1985-04-09,1989-04-17,4,2258000,Maignan-ov,Anatheo,1952-08-02,32,France,DC,D,Titulaire,3,1,182,61,Zahavi,Miguel,Israel,5.0,P00077
+CDD Sportif,1989-06-10,1990-02-17,3,1178000,Maignan-ov,Anatheo,1952-08-02,36,France,DG,D,Reserviste,3,1,182,61,Zahavi,Miguel,Israel,9.0,P00077
+CDD Sportif,2000-02-07,2003-02-20,3,1392000,Mandi,Andrea,1977-03-26,22,Italy,BU,G,Titulaire,2,3,180,64,Bolarinwa,Federico,Nigeria,0.0,P00149
+CDD Sportif,2003-03-01,2008-03-12,5,1981000,Mandi,Andrea,1977-03-26,25,Italy,MOC,G,Remplaçant,2,3,180,64,Bolarinwa,Federico,Nigeria,3.0,P00149
+CDD Sportif,2008-04-19,2011-04-11,3,2062000,Mandi,Andrea,1977-03-26,31,Italy,MOC,G,Remplaçant,2,3,180,64,Bolarinwa,Federico,Nigeria,8.0,P00149
+CDD Sportif,2022-03-11,2023-03-23,1,635000,Mandi,Baptiste,2004-01-13,18,Netherlands,MC,G,Titulaire,2,1,180,77,Iaque,Matthias,Italy,0.0,P00223
+CDD Sportif,2023-04-01,2025-10-07,3,1032000,Mandi,Baptiste,2004-01-13,19,Netherlands,MC,G,Titulaire,2,1,180,77,Iaque,Matthias,Italy,1.0,P00223
+CDD Sportif,1982-01-08,1984-01-17,2,1486000,Mandi,Tom,1954-06-18,27,Senegal,AG,D,Remplaçant,2,2,182,75,Iaque,Matthias,Italy,0.0,P00081
+CDD Sportif,1984-03-15,1989-03-15,5,1951000,Mandi,Tom,1954-06-18,29,Senegal,AG,D,Remplaçant,2,2,182,75,Iaque,Matthias,Italy,2.0,P00081
+CDD Sportif,1989-04-11,1990-04-11,1,1428000,Mandi,Tom,1954-06-18,34,Senegal,AG,D,Remplaçant,2,2,182,75,Iaque,Matthias,Italy,7.0,P00081
+CDD Sportif,2014-03-21,2018-03-10,4,1714000,Mandi-azzi,Ariodi,1985-11-24,28,Portugal,AD,D,Remplaçant,3,2,182,86,Silva,David,Portugal,0.0,P00196
+CDD Sportif,2004-01-09,2006-01-11,2,1450000,Mandi-etti,Adoan,1973-12-16,30,France,AG,D,Remplaçant,2,2,175,73,Bolarinwa,Federico,Nigeria,0.0,P00161
+CDD Sportif,2006-02-14,2009-03-28,4,2018000,Mandi-etti,Adoan,1973-12-16,32,France,BU,D,Titulaire,2,2,175,73,Bolarinwa,Federico,Nigeria,2.0,P00161
+CDD Sportif,1992-04-25,1994-05-02,2,1140000,Mandi-ski,Juona,1972-01-18,20,France,DC,G,Titulaire indiscutable,2,3,186,72,Iaque,Matthias,Italy,0.0,P00118
+CDD Sportif,1994-06-17,1998-06-09,4,1429000,Mandi-ski,Juona,1972-01-18,22,France,DC,G,Remplaçant,2,3,186,72,Iaque,Matthias,Italy,2.0,P00118
+CDD Sportif,1970-01-18,1974-01-31,4,729000,Mané,Alexandre,1951-02-04,18,Spain,MD,D,Remplaçant,4,1,182,75,Zeroual,Samir,Morocco,0.0,P00039
+CDD Sportif,1974-03-01,1975-02-22,1,1918000,Mané,Alexandre,1951-02-04,23,Spain,MD,D,Titulaire,4,1,182,75,Zeroual,Samir,Morocco,4.0,P00039
+CDD Sportif,1970-10-31,1974-11-01,4,1169000,Mané,Karim,1948-04-05,22,France,MDC,D,Remplaçant,3,2,182,73,Zahavi,Miguel,Israel,0.0,P00025
+CDD Sportif,1974-12-21,1977-12-08,3,2748000,Mané,Karim,1948-04-05,26,France,MDC,D,Titulaire indiscutable,3,2,182,73,Zahavi,Miguel,Israel,4.0,P00025
+CDD Sportif,1977-12-11,1978-12-19,1,1590000,Mané,Karim,1948-04-05,29,France,MDC,D,Reserviste,3,1,182,73,Zahavi,Miguel,Israel,7.0,P00025
+CDD Sportif,1986-02-09,1989-02-24,3,1632000,Mané,Nabil,1958-11-25,27,France,AG,G,Remplaçant,3,2,184,75,Bozzo,Sacha,Italy,0.0,P00092
+CDD Sportif,1989-03-17,1993-03-08,4,2418000,Mané,Nabil,1958-11-25,30,France,AG,G,Titulaire,3,2,184,75,Bozzo,Sacha,Italy,3.0,P00092
+CDD Sportif,1993-03-22,1995-03-04,2,2184000,Mané,Nabil,1958-11-25,34,France,AG,G,Titulaire indiscutable,3,2,184,75,Bozzo,Sacha,Italy,7.0,P00092
+CDD Sportif,2017-04-12,2021-04-18,4,2137000,Mané,Álvaro,1985-09-13,31,England,DC,D,Titulaire indiscutable,2,2,176,75,Antunes,Pini,Portugal,0.0,P00203
+CDD Sportif,1983-03-20,1987-03-27,4,1864000,Mané-ini,Quenana,1950-02-16,33,France,GK,D,Titulaire indiscutable,3,3,191,82,Sissoko,Mino,France,0.0,P00088
+CDD Sportif,1994-04-08,1997-04-24,3,663000,Martin,Baptiste,1976-07-19,17,Brazil,MDC,D,Remplaçant,4,2,181,67,Campos,Andrea,Portugal,0.0,P00125
+CDD Sportif,1970-08-24,1971-08-25,1,1341000,Martin,Kylian,1943-01-20,27,Brazil,GK,D,Reserviste,4,3,192,77,Raiola,Marco,Italy,0.0,P00003
+CDD Sportif,1971-10-20,1972-10-26,1,1785000,Martin,Kylian,1943-01-20,28,Brazil,GK,D,Remplaçant,4,3,192,77,Raiola,Marco,Italy,1.0,P00003
+CDD Sportif,1972-11-22,1974-12-04,2,2350000,Martin,Kylian,1943-01-20,29,Brazil,GK,D,Titulaire,4,2,192,77,Raiola,Marco,Italy,2.0,P00003
+CDD Sportif,2001-03-02,2003-02-15,2,459000,Martin-azzi,Baeyo,1985-05-22,15,Brazil,AD,D,Remplaçant,3,2,169,64,Bozzo,Sacha,Italy,0.0,P00151
+CDD Sportif,2003-03-10,2005-02-24,2,1029000,Martin-azzi,Baeyo,1985-05-22,17,Brazil,AD,D,Titulaire,3,2,169,64,Bozzo,Sacha,Italy,2.0,P00151
+CDD Sportif,2005-03-13,2006-03-24,1,1086000,Martin-azzi,Baeyo,1985-05-22,19,Brazil,AD,D,Remplaçant,3,2,169,64,Bozzo,Sacha,Italy,4.0,P00151
+CDD Sportif,2006-05-04,2009-04-23,3,1667000,Martin-azzi,Baeyo,1985-05-22,20,Brazil,AD,D,Titulaire,3,2,169,64,Bozzo,Sacha,Italy,5.0,P00151
+CDD Sportif,2009-04-29,2011-04-29,2,1776000,Martin-azzi,Baeyo,1985-05-22,23,Brazil,AD,D,Remplaçant,3,2,169,64,Bozzo,Sacha,Italy,8.0,P00151
+CDD Sportif,2011-06-21,2014-06-23,3,2735000,Martin-azzi,Baeyo,1985-05-22,26,Brazil,AD,D,Titulaire,3,2,169,64,Bozzo,Sacha,Italy,10.0,P00151
+CDD Sportif,2014-06-24,2019-07-08,5,2510000,Martin-azzi,Baeyo,1985-05-22,29,Brazil,AD,D,Remplaçant,3,2,169,64,Bozzo,Sacha,Italy,13.0,P00151
+CDD Sportif,2019-08-06,2021-08-07,2,2235000,Martin-azzi,Baeyo,1985-05-22,34,Brazil,AD,D,Titulaire,3,2,169,64,Bozzo,Sacha,Italy,18.0,P00151
+CDD Sportif,2025-01-13,2028-01-11,3,1829000,Martin-sky,Anaau,1993-06-08,31,France,MDC,D,Titulaire,3,2,172,62,Iaque,Matthias,Italy,0.0,P00236
+CDD Sportif,1970-10-02,1971-10-20,1,1592000,Martínez,Clément,1945-05-01,25,France,DD,D,Titulaire,2,2,183,77,De la Croix,Pierre,France,0.0,P00004
+CDD Sportif,1971-12-07,1976-11-16,5,1506000,Martínez,Clément,1945-05-01,26,France,DD,D,Reserviste,2,2,183,77,De la Croix,Pierre,France,1.0,P00004
+CDD Sportif,1992-01-03,1995-01-12,3,1407000,Martínez,Paul,1963-04-08,28,France,BU,G,Reserviste,3,3,179,70,Ferreira,Hassan,Brazil,0.0,P00116
+CDD Sportif,2005-04-22,2007-04-26,2,1896000,Martínez-sky,Anequen,1976-02-09,29,Argentina,DD,D,Titulaire,2,3,193,86,Bozzo,Sacha,Italy,0.0,P00168
+CDD Sportif,2007-04-30,2008-04-30,1,1599000,Martínez-sky,Anequen,1976-02-09,31,Argentina,DD,D,Remplaçant,2,3,193,86,Bozzo,Sacha,Italy,2.0,P00168
+CDD Sportif,1970-03-11,1974-03-12,4,809000,Mendes,Alexandre,1952-09-21,17,Brazil,DG,D,Titulaire,3,3,182,79,Zahavi,Miguel,Israel,0.0,P00042
+CDD Sportif,1974-04-04,1976-03-20,2,1414000,Mendes,Alexandre,1952-09-21,21,Brazil,MG,D,Remplaçant,3,3,182,79,Zahavi,Miguel,Israel,4.0,P00042
+CDD Sportif,1976-04-17,1978-04-28,2,1752000,Mendes,Alexandre,1952-09-21,23,Brazil,MG,D,Remplaçant,3,3,182,79,Zahavi,Miguel,Israel,6.0,P00042
+CDD Sportif,1978-05-07,1982-04-24,4,2691000,Mendes,Alexandre,1952-09-21,25,Brazil,MG,D,Titulaire,3,3,182,79,Zahavi,Miguel,Israel,8.0,P00042
+CDD Sportif,2000-04-09,2004-03-26,4,1765000,Mendes,Boulaye,1972-08-19,27,England,MOC,D,Remplaçant,4,1,175,62,Bozzo,Sacha,Italy,0.0,P00150
+CDD Sportif,1970-09-22,1972-09-16,2,1505000,Mendes,Marco,1945-01-08,25,Spain,DD,G,Remplaçant,3,3,182,70,Morales,Karim,Spain,0.0,P00006
+CDD Sportif,1972-11-14,1974-10-25,2,2328000,Mendes,Marco,1945-01-08,27,Spain,DD,G,Titulaire,3,3,182,70,Morales,Karim,Spain,2.0,P00006
+CDD Sportif,1992-02-29,1996-03-01,4,1605000,Mendes-ini,Juelo,1965-10-25,26,France,BU,D,Remplaçant,2,3,178,71,Zahavi,Miguel,Israel,0.0,P00117
+CDD Sportif,1996-04-27,1997-04-10,1,2167000,Mendes-ini,Juelo,1965-10-25,30,France,BU,D,Titulaire,2,3,178,71,Zahavi,Miguel,Israel,4.0,P00117
+CDD Sportif,1997-04-18,1999-04-17,2,1830000,Mendes-ini,Juelo,1965-10-25,31,France,BU,D,Remplaçant,2,3,178,71,Zahavi,Miguel,Israel,5.0,P00117
+CDD Sportif,1999-05-18,2002-06-15,5,1881000,Mendes-ini,Juelo,1965-10-25,33,France,BU,D,Remplaçant,2,3,178,71,Zahavi,Miguel,Israel,7.0,P00117
+CDD Sportif,1980-04-11,1983-04-04,3,1565000,Mendes-ić,Mioki,1955-01-04,25,Germany,AD,D,Remplaçant,3,3,187,75,Raiola,Marco,Italy,0.0,P00074
+CDD Sportif,1983-05-07,1984-05-04,1,2291000,Mendes-ić,Mioki,1955-01-04,28,Germany,AD,D,Titulaire,3,3,187,75,Raiola,Marco,Italy,3.0,P00074
+CDD Sportif,1984-05-19,1986-04-30,2,2009000,Mendes-ić,Mioki,1955-01-04,29,Germany,AD,D,Remplaçant,3,3,187,75,Raiola,Marco,Italy,4.0,P00074
+CDD Sportif,1986-05-22,1990-10-27,5,2193000,Mendes-ić,Mioki,1955-01-04,31,Germany,MD,D,Remplaçant,3,3,187,75,Raiola,Marco,Italy,6.0,P00074
+CDD Sportif,2020-03-28,2024-03-25,4,501000,Ndiaye,Iker,2004-12-23,15,England,GK,D,Remplaçant,3,2,186,80,De la Croix,Pierre,France,0.0,P00213
+CDD Sportif,2024-04-17,2025-10-07,2,1411000,Ndiaye,Iker,2004-12-23,19,England,GK,D,Titulaire,3,2,186,80,De la Croix,Pierre,France,4.0,P00213
+CDD Sportif,1988-04-10,1991-03-27,3,663000,Ndiaye-ovic,Dira,1969-09-04,18,Italy,MOC,D,Remplaçant,2,3,181,78,Antunes,Pini,Portugal,0.0,P00098
+CDD Sportif,1991-04-01,1995-03-27,4,1394000,Ndiaye-ovic,Dira,1969-09-04,21,Italy,MOC,D,Remplaçant,2,3,181,78,Antunes,Pini,Portugal,3.0,P00098
+CDD Sportif,1995-05-18,1998-05-08,3,2483000,Ndiaye-ovic,Dira,1969-09-04,25,Italy,MOC,D,Titulaire,2,3,181,78,Antunes,Pini,Portugal,7.0,P00098
+CDD Sportif,1998-06-16,2001-05-27,3,3000000,Ndiaye-ovic,Dira,1969-09-04,28,Italy,MOC,D,Titulaire indiscutable,2,3,181,78,Antunes,Pini,Portugal,10.0,P00098
+CDD Sportif,2005-03-17,2006-03-26,1,2114000,Nkunku,Andrea,1976-08-12,28,Italy,MDC,D,Titulaire indiscutable,3,2,178,71,Benchetrit,Francesco,France,0.0,P00171
+CDD Sportif,2006-03-28,2009-03-31,3,2555000,Nkunku,Andrea,1976-08-12,29,Italy,MDC,D,Titulaire indiscutable,3,2,178,71,Benchetrit,Francesco,France,1.0,P00171
+CDD Sportif,2010-02-11,2012-02-08,2,1590000,Nkunku,Brice,1981-08-24,28,France,DG,G,Remplaçant,4,1,184,81,Silva,David,Portugal,0.0,P00183
+CDD Sportif,2012-04-01,2013-03-19,1,2132000,Nkunku,Brice,1981-08-24,30,France,DG,G,Titulaire,5,1,184,81,Silva,David,Portugal,2.0,P00183
+CDD Sportif,2013-05-04,2014-05-20,1,2119000,Nkunku,Brice,1981-08-24,31,France,DG,G,Titulaire,5,1,184,81,Silva,David,Portugal,3.0,P00183
+CDD Sportif,1992-02-07,1996-02-02,4,1863000,Nkunku-azzi,Anena,1966-05-15,25,Brazil,AG,D,Titulaire,2,2,183,77,Giacomo,Daniel,Italy,0.0,P00114
+CDD Sportif,2000-05-29,2002-05-14,2,1449000,Nkunku-azzi,Anena,1966-05-15,34,Brazil,AG,D,Remplaçant,2,2,183,77,Giacomo,Daniel,Italy,4.0,P00114
+CDD Sportif,2002-05-26,2004-06-08,2,1633000,Nkunku-azzi,Anena,1966-05-15,36,Brazil,AG,D,Titulaire,3,2,183,77,Giacomo,Daniel,Italy,6.0,P00114
+CDD Sportif,1990-04-11,1994-04-05,4,1605000,Ounahi,Achraf,1964-02-27,26,France,DC,D,Remplaçant,2,3,180,69,Bozzo,Sacha,Italy,0.0,P00109
+CDD Sportif,1994-04-21,1997-04-12,3,2721000,Ounahi,Achraf,1964-02-27,30,France,DC,D,Titulaire indiscutable,2,3,180,69,Bozzo,Sacha,Italy,4.0,P00109
+CDD Sportif,2012-03-17,2016-03-14,4,1395000,Ounahi,Sacha,1991-02-07,21,Senegal,AD,D,Titulaire indiscutable,2,3,176,67,Silva,David,Portugal,0.0,P00192
+CDD Sportif,2016-04-19,2019-04-09,3,2202000,Ounahi,Sacha,1991-02-07,25,Senegal,AD,D,Titulaire,1,3,176,67,Silva,David,Portugal,4.0,P00192
+CDD Sportif,2019-05-07,2020-04-17,1,1560000,Ounahi,Sacha,1991-02-07,28,Senegal,AD,D,Reserviste,1,3,176,67,Silva,David,Portugal,7.0,P00192
+CDD Sportif,1970-01-14,1972-01-07,2,547000,Pavard,Ethan,1951-04-14,18,France,DD,D,Remplaçant,2,1,183,74,Mendes,Jean,Portugal,0.0,P00066
+CDD Sportif,1986-01-30,1989-02-06,3,1193000,Pavard,Ismaïla,1965-03-07,20,France,GK,G,Titulaire,4,3,195,88,Barnett,Jorge,UK,0.0,P00094
+CDD Sportif,1989-03-09,1992-03-10,3,2235000,Pavard,Ismaïla,1965-03-07,24,France,GK,G,Titulaire,4,3,195,88,Barnett,Jorge,UK,3.0,P00094
+CDD Sportif,1992-04-08,1993-04-20,1,1666000,Pavard,Ismaïla,1965-03-07,27,France,GK,G,Reserviste,4,3,195,88,Barnett,Jorge,UK,6.0,P00094
+CDD Sportif,2020-01-24,2021-02-04,1,2022000,Pavard,Sacha,1991-08-12,28,Portugal,MG,D,Titulaire indiscutable,2,2,181,82,Bozzo,Sacha,Italy,0.0,P00211
+CDD Sportif,2012-02-23,2013-02-24,1,1200000,Pereira,Alban,1986-11-20,25,France,DD,D,Reserviste,4,3,186,78,Bozzo,Sacha,Italy,0.0,P00190
+CDD Sportif,1970-01-26,1972-02-14,2,1614000,Pereira,Ismaïla,1947-03-23,22,England,DG,D,Titulaire indiscutable,3,3,182,70,Iaque,Matthias,Italy,0.0,P00057
+CDD Sportif,1970-10-31,1975-10-29,5,2078000,Pereira,Noah,1943-04-06,27,France,MOC,D,Titulaire,3,1,174,72,Rosell,Yusef,Spain,0.0,P00023
+CDD Sportif,2002-02-27,2005-02-20,3,1761000,Pereira-aldi,Kaona,1972-12-04,29,Italy,MG,D,Remplaçant,4,3,173,67,Bolarinwa,Federico,Nigeria,0.0,P00156
+CDD Sportif,2004-04-11,2008-03-28,4,1200000,Pereira-azzi,Auka,1983-08-16,20,England,AD,D,Titulaire,3,3,184,79,Raiola,Marco,Italy,0.0,P00166
+CDD Sportif,2008-05-04,2009-05-04,1,2099000,Pereira-azzi,Auka,1983-08-16,24,England,AD,D,Titulaire,3,3,184,79,Raiola,Marco,Italy,4.0,P00166
+CDD Sportif,2009-06-20,2012-06-28,3,2856000,Pereira-azzi,Auka,1983-08-16,25,England,AD,D,Titulaire indiscutable,3,3,184,79,Raiola,Marco,Italy,5.0,P00166
+CDD Sportif,2012-07-19,2017-08-06,5,3000000,Pereira-azzi,Auka,1983-08-16,28,England,AD,D,Titulaire,3,3,184,79,Raiola,Marco,Italy,8.0,P00166
+CDD Sportif,2017-10-01,2019-10-07,2,1753000,Pereira-azzi,Auka,1983-08-16,34,England,AD,D,Remplaçant,2,3,184,79,Raiola,Marco,Italy,13.0,P00166
+CDD Sportif,2019-10-29,2022-08-18,3,1967000,Pereira-azzi,Auka,1983-08-16,36,England,AD,D,Titulaire,2,3,184,79,Raiola,Marco,Italy,15.0,P00166
+CDD Sportif,1970-01-20,1972-02-04,2,1810000,Pereira-opoulos,Lulu,1941-08-13,28,France,MDC,D,Titulaire,2,1,183,78,Sissoko,Mino,France,0.0,P00052
+CDD Sportif,1972-02-10,1976-01-24,4,2209000,Pereira-opoulos,Lulu,1941-08-13,30,France,MDC,D,Titulaire,2,1,183,78,Sissoko,Mino,France,2.0,P00052
+CDD Sportif,2004-02-21,2008-02-04,4,970000,Pérez,Benjamin,1984-06-06,19,Portugal,DD,D,Titulaire indiscutable,2,1,185,73,Bozzo,Sacha,Italy,0.0,P00163
+CDD Sportif,2008-03-27,2012-04-05,4,1359000,Pérez,Benjamin,1984-06-06,23,Portugal,DD,D,Reserviste,2,1,185,73,Bozzo,Sacha,Italy,4.0,P00163
+CDD Sportif,2012-04-20,2013-05-04,1,2324000,Pérez,Benjamin,1984-06-06,27,Portugal,DD,D,Titulaire,2,1,185,73,Bozzo,Sacha,Italy,8.0,P00163
+CDD Sportif,2013-05-31,2017-05-29,4,3000000,Pérez,Benjamin,1984-06-06,29,Portugal,DD,D,Titulaire indiscutable,2,1,185,73,Bozzo,Sacha,Italy,9.0,P00163
+CDD Sportif,2017-07-09,2019-12-31,4,2366000,Pérez,Benjamin,1984-06-06,33,Portugal,DD,D,Titulaire,2,2,185,73,Bozzo,Sacha,Italy,13.0,P00163
+CDD Sportif,1970-04-23,1972-04-20,2,1329000,Pérez,Jonathan,1945-09-25,24,Senegal,MG,D,Remplaçant,4,1,173,75,Mendes,Jean,Portugal,0.0,P00045
+CDD Sportif,1972-05-21,1974-06-05,2,2156000,Pérez,Jonathan,1945-09-25,26,Senegal,MG,D,Titulaire,4,1,173,75,Mendes,Jean,Portugal,2.0,P00045
+CDD Sportif,1974-07-13,1975-06-24,1,2264000,Pérez,Jonathan,1945-09-25,28,Senegal,MG,D,Titulaire,4,1,173,75,Mendes,Jean,Portugal,4.0,P00045
+CDD Sportif,1975-06-26,1978-06-07,3,2536000,Pérez,Jonathan,1945-09-25,29,Senegal,MG,D,Titulaire,4,1,173,75,Mendes,Jean,Portugal,5.0,P00045
+CDD Sportif,1978-06-29,1979-10-21,2,1878000,Pérez,Jonathan,1945-09-25,32,Senegal,MG,D,Remplaçant,4,2,173,75,Mendes,Jean,Portugal,8.0,P00045
+CDD Sportif,1970-11-09,1973-11-24,3,1762000,Pérez,Sadio,1946-09-15,24,Argentina,AG,D,Titulaire,3,3,179,68,Costa,Luis,Portugal,0.0,P00032
+CDD Sportif,1973-11-28,1978-12-16,5,2169000,Pérez,Sadio,1946-09-15,27,Argentina,AG,D,Remplaçant,3,3,179,68,Costa,Luis,Portugal,3.0,P00032
+CDD Sportif,1979-01-24,1982-02-04,3,1992000,Pérez,Sadio,1946-09-15,32,Argentina,AG,D,Remplaçant,3,3,179,68,Costa,Luis,Portugal,8.0,P00032
+CDD Sportif,1982-03-16,1984-03-19,2,2216000,Pérez,Sadio,1946-09-15,35,Argentina,AG,D,Titulaire indiscutable,3,3,179,68,Costa,Luis,Portugal,11.0,P00032
+CDD Sportif,1984-05-02,1985-01-07,4,1516000,Pérez,Sadio,1946-09-15,37,Argentina,AG,D,Remplaçant,3,3,179,68,Costa,Luis,Portugal,13.0,P00032
+CDD Sportif,1997-02-19,1999-02-13,2,1324000,Pérez,Sadio,1966-04-14,30,Germany,MD,D,Reserviste,4,2,182,73,Bozzo,Sacha,Italy,0.0,P00140
+CDD Sportif,1999-03-20,2000-03-13,1,1638000,Pérez,Sadio,1966-04-14,32,Germany,MD,D,Remplaçant,5,2,182,73,Bozzo,Sacha,Italy,2.0,P00140
+CDD Sportif,2019-04-15,2023-05-02,4,535000,Pérez-azzi,Aleyo,2003-06-07,15,Belgium,DC,D,Remplaçant,4,2,176,73,Bozzo,Sacha,Italy,0.0,P00210
+CDD Sportif,2022-03-10,2023-03-23,1,1037000,Pérez-etti,Naona,2001-07-18,20,France,BU,D,Titulaire,4,2,185,77,Zeroual,Samir,Morocco,0.0,P00224
+CDD Sportif,2023-04-30,2025-05-04,2,1436000,Pérez-etti,Naona,2001-07-18,21,France,BU,D,Titulaire,4,2,185,77,Zeroual,Samir,Morocco,1.0,P00224
+CDD Sportif,2025-05-29,2025-10-07,3,2316000,Pérez-etti,Naona,2001-07-18,23,France,BU,D,Titulaire indiscutable,4,2,185,77,Zeroual,Samir,Morocco,3.0,P00224
+CDD Sportif,2013-03-29,2015-03-16,2,1046000,Pérez-sky,Auma,1990-07-23,22,France,AD,D,Remplaçant,3,1,180,71,Sissoko,Mino,France,0.0,P00194
+CDD Sportif,1970-01-12,1971-01-09,1,976000,Rabiot,Clément,1947-03-20,22,France,MD,G,Remplaçant,2,2,179,79,Iaque,Matthias,Italy,0.0,P00047
+CDD Sportif,1971-02-19,1975-02-03,4,1737000,Rabiot,Clément,1947-03-20,23,France,MD,G,Titulaire,2,2,179,79,Iaque,Matthias,Italy,1.0,P00047
+CDD Sportif,1991-01-11,1994-01-22,3,1123000,Rabiot,Kylian,1970-09-25,20,France,MOC,G,Titulaire,3,3,182,82,Silva,David,Portugal,0.0,P00111
+CDD Sportif,1994-02-11,1998-01-26,4,2072000,Rabiot,Kylian,1970-09-25,23,France,MOC,G,Titulaire,3,3,182,82,Silva,David,Portugal,3.0,P00111
+CDD Sportif,1992-02-23,1994-02-19,2,1207000,Rabiot-escu,Adewor,1968-03-11,23,France,DD,G,Remplaçant,3,2,186,76,Giacomo,Daniel,Italy,0.0,P00119
+CDD Sportif,1994-03-06,1995-02-25,1,2279000,Rabiot-escu,Adewor,1968-03-11,26,France,DD,G,Titulaire indiscutable,3,1,186,76,Giacomo,Daniel,Italy,2.0,P00119
+CDD Sportif,1995-03-11,1997-02-24,2,2563000,Rabiot-escu,Adewor,1968-03-11,27,France,DD,G,Titulaire indiscutable,3,1,186,76,Giacomo,Daniel,Italy,3.0,P00119
+CDD Sportif,1997-04-07,2001-04-02,4,2966000,Rabiot-escu,Adewor,1968-03-11,29,France,DD,G,Titulaire indiscutable,3,2,186,76,Giacomo,Daniel,Italy,5.0,P00119
+CDD Sportif,2001-04-30,2003-06-13,3,2246000,Rabiot-escu,Adewor,1968-03-11,33,France,DC,G,Titulaire,3,2,186,76,Giacomo,Daniel,Italy,9.0,P00119
+CDD Sportif,1991-03-07,1993-03-10,2,948000,Rabiot-ić,Raera,1969-10-15,21,Spain,DD,G,Remplaçant,3,1,189,74,De la Croix,Pierre,France,0.0,P00113
+CDD Sportif,1993-03-30,1997-04-10,4,1589000,Rabiot-ić,Raera,1969-10-15,23,Spain,DD,G,Remplaçant,3,1,189,74,De la Croix,Pierre,France,2.0,P00113
+CDD Sportif,1997-04-30,2000-04-13,3,2969000,Rabiot-ić,Raera,1969-10-15,27,Spain,DD,G,Titulaire indiscutable,3,1,189,74,De la Croix,Pierre,France,6.0,P00113
+CDD Sportif,2000-05-03,2004-05-03,4,2236000,Rabiot-ić,Raera,1969-10-15,30,Spain,DD,G,Remplaçant,3,1,189,74,De la Croix,Pierre,France,9.0,P00113
+CDD Sportif,2004-05-10,2004-11-14,4,1546000,Rabiot-ić,Raera,1969-10-15,34,Spain,DD,G,Reserviste,3,1,189,74,De la Croix,Pierre,France,13.0,P00113
+CDD Sportif,1977-03-05,1980-03-04,3,2042000,Rabiot-ovic,Raba,1952-06-09,24,Senegal,AD,D,Titulaire indiscutable,4,3,186,78,Zeroual,Samir,Morocco,0.0,P00067
+CDD Sportif,1980-03-06,1982-02-22,2,1627000,Rabiot-ovic,Raba,1952-06-09,27,Senegal,AD,D,Reserviste,4,3,186,78,Zeroual,Samir,Morocco,3.0,P00067
+CDD Sportif,1982-04-07,1985-04-25,3,2150000,Rabiot-ovic,Raba,1952-06-09,29,Senegal,AD,D,Remplaçant,4,3,186,78,Zeroual,Samir,Morocco,5.0,P00067
+CDD Sportif,1985-05-23,1986-05-23,1,2222000,Rabiot-ovic,Raba,1952-06-09,32,Senegal,AD,D,Titulaire,4,3,186,78,Zeroual,Samir,Morocco,8.0,P00067
+CDD Sportif,1986-06-19,1987-06-10,1,1648000,Rabiot-ovic,Raba,1952-06-09,34,Senegal,AD,D,Remplaçant,4,4,186,78,Zeroual,Samir,Morocco,9.0,P00067
+CDD Sportif,1987-06-10,1989-06-26,2,1580000,Rabiot-ovic,Raba,1952-06-09,35,Senegal,AD,D,Remplaçant,3,4,186,78,Zeroual,Samir,Morocco,10.0,P00067
+CDD Sportif,1989-07-14,1991-02-23,2,1705000,Rabiot-ovic,Raba,1952-06-09,37,Senegal,AD,D,Titulaire,3,4,186,78,Zeroual,Samir,Morocco,12.0,P00067
+CDD Sportif,1970-09-20,1974-09-16,4,1469000,Ricci,Abdou,1946-04-22,24,France,GK,G,Remplaçant,3,3,180,68,Raiola,Marco,Italy,0.0,P00002
+CDD Sportif,1974-10-10,1976-10-17,2,2024000,Ricci,Abdou,1946-04-22,28,France,GK,G,Remplaçant,3,4,180,68,Raiola,Marco,Italy,4.0,P00002
+CDD Sportif,1980-05-31,1983-06-14,3,2353000,Ricci,Abdou,1946-04-22,34,France,GK,G,Titulaire indiscutable,3,4,180,68,Raiola,Marco,Italy,6.0,P00002
+CDD Sportif,1983-06-21,1985-07-02,2,1347000,Ricci,Abdou,1946-04-22,37,France,GK,G,Remplaçant,3,4,180,68,Raiola,Marco,Italy,9.0,P00002
+CDD Sportif,1985-07-28,1985-10-22,3,1279000,Ricci,Abdou,1946-04-22,39,France,GK,G,Remplaçant,3,4,180,68,Raiola,Marco,Italy,11.0,P00002
+CDD Sportif,2016-02-20,2018-02-09,2,749000,Ricci,Brice,1996-03-10,19,France,MC,D,Remplaçant,4,1,183,74,Campos,Andrea,Portugal,0.0,P00202
+CDD Sportif,2018-02-19,2021-02-23,3,1584000,Ricci,Brice,1996-03-10,21,France,MC,D,Titulaire,4,1,183,74,Campos,Andrea,Portugal,2.0,P00202
+CDD Sportif,1970-01-05,1974-01-19,4,1411000,Ricci,Luca,1943-09-20,26,Brazil,MOC,D,Reserviste,4,1,179,72,Barnett,Jorge,UK,0.0,P00040
+CDD Sportif,1970-02-21,1972-02-25,2,738000,Ricci,Luca,1950-04-18,19,Argentina,DG,G,Remplaçant,3,2,183,79,Barnett,Jorge,UK,0.0,P00048
+CDD Sportif,1974-01-29,1978-01-21,4,2937000,Ricci,Luca,1943-09-20,30,Brazil,MOC,D,Titulaire indiscutable,4,1,179,72,Barnett,Jorge,UK,4.0,P00040
+CDD Sportif,1978-01-28,1979-08-24,3,1749000,Ricci,Luca,1943-09-20,34,Brazil,MOC,D,Remplaçant,4,1,179,72,Barnett,Jorge,UK,8.0,P00040
+CDD Sportif,2024-04-09,2027-04-20,3,1839000,Ricci,Nabil,2000-09-13,23,France,DD,D,Titulaire indiscutable,4,2,180,70,Iaque,Matthias,Italy,0.0,P00229
+CDD Sportif,1986-02-19,1989-01-29,3,1443000,Ricci,Sadio,1960-11-09,25,Spain,MOC,D,Remplaçant,2,1,187,81,Ferreira,Hassan,Brazil,0.0,P00095
+CDD Sportif,1989-02-10,1992-02-18,3,2796000,Ricci,Sadio,1960-11-09,28,Spain,MOC,D,Titulaire indiscutable,3,1,187,81,Ferreira,Hassan,Brazil,3.0,P00095
+CDD Sportif,1992-02-20,1993-03-09,1,2437000,Ricci,Sadio,1960-11-09,31,Spain,MOC,D,Titulaire indiscutable,2,1,187,81,Ferreira,Hassan,Brazil,6.0,P00095
+CDD Sportif,1993-03-23,1996-10-18,4,1916000,Ricci,Sadio,1960-11-09,32,Spain,MOC,D,Remplaçant,2,1,187,81,Ferreira,Hassan,Brazil,7.0,P00095
+CDD Sportif,1970-03-03,1972-03-17,2,1769000,Ricci-eira,Naasa,1944-08-25,25,Algeria,BU,D,Titulaire,3,3,178,71,Barnett,Jorge,UK,0.0,P00053
+CDD Sportif,1972-05-09,1974-05-20,2,2544000,Ricci-eira,Naasa,1944-08-25,27,Algeria,BU,D,Titulaire indiscutable,3,3,178,71,Barnett,Jorge,UK,2.0,P00053
+CDD Sportif,1974-06-28,1977-06-15,3,2049000,Ricci-eira,Naasa,1944-08-25,29,Algeria,BU,D,Remplaçant,3,3,178,71,Barnett,Jorge,UK,4.0,P00053
+CDD Sportif,1977-07-14,1982-07-24,5,2032000,Ricci-eira,Naasa,1944-08-25,32,Algeria,BU,D,Remplaçant,2,4,178,71,Barnett,Jorge,UK,7.0,P00053
+CDD Sportif,1993-01-16,1996-02-04,3,850000,Ricci-ić,Ariedi,1975-04-24,17,Portugal,MDC,D,Titulaire indiscutable,4,1,179,73,Sissoko,Mino,France,0.0,P00123
+CDD Sportif,1996-02-17,2000-02-11,4,1793000,Ricci-ić,Ariedi,1975-04-24,20,Portugal,MDC,D,Titulaire indiscutable,4,1,179,73,Sissoko,Mino,France,3.0,P00123
+CDD Sportif,2000-02-27,2004-03-10,4,2442000,Ricci-ić,Ariedi,1975-04-24,24,Portugal,MDC,D,Titulaire,4,1,179,73,Sissoko,Mino,France,7.0,P00123
+CDD Sportif,2004-04-21,2005-05-01,1,2876000,Ricci-ić,Ariedi,1975-04-24,29,Portugal,MDC,D,Titulaire indiscutable,4,1,179,73,Sissoko,Mino,France,11.0,P00123
+CDD Sportif,2005-05-13,2010-05-26,5,2941000,Ricci-ić,Ariedi,1975-04-24,30,Portugal,MDC,D,Titulaire,4,1,179,73,Sissoko,Mino,France,12.0,P00123
+CDD Sportif,2010-05-30,2010-08-05,2,2324000,Ricci-ić,Ariedi,1975-04-24,35,Portugal,MDC,D,Titulaire indiscutable,4,1,179,73,Sissoko,Mino,France,17.0,P00123
+CDD Sportif,1994-04-06,1996-03-26,2,929000,Ricci-son,Juaquen,1974-05-24,19,Morocco,MD,G,Titulaire,3,3,175,73,Bolarinwa,Federico,Nigeria,0.0,P00126
+CDD Sportif,1996-05-09,1997-05-16,1,1440000,Ricci-son,Juaquen,1974-05-24,21,Morocco,MD,G,Titulaire,3,3,175,73,Bolarinwa,Federico,Nigeria,2.0,P00126
+CDD Sportif,2012-03-02,2016-03-03,4,2150000,Rodríguez,Arthur,1984-04-02,27,Senegal,DD,D,Titulaire,4,3,193,83,Bozzo,Sacha,Italy,0.0,P00191
+CDD Sportif,2016-03-08,2021-03-20,5,2102000,Rodríguez,Arthur,1984-04-02,31,Senegal,DD,D,Remplaçant,4,3,193,83,Bozzo,Sacha,Italy,4.0,P00191
+CDD Sportif,2021-03-22,2023-03-20,2,1782000,Rodríguez,Arthur,1984-04-02,36,Senegal,DD,D,Titulaire,4,3,193,83,Bozzo,Sacha,Italy,9.0,P00191
+CDD Sportif,2023-05-07,2023-10-30,2,1496000,Rodríguez,Arthur,1984-04-02,39,Senegal,DD,D,Titulaire,4,3,193,83,Bozzo,Sacha,Italy,11.0,P00191
+CDD Sportif,1995-04-12,1998-04-28,3,694000,Rodríguez,Enzo,1978-03-16,17,France,GK,G,Titulaire,2,3,190,87,De la Croix,Pierre,France,0.0,P00127
+CDD Sportif,1998-05-04,2001-04-30,3,1473000,Rodríguez,Enzo,1978-03-16,20,France,GK,G,Titulaire,2,3,190,87,De la Croix,Pierre,France,3.0,P00127
+CDD Sportif,1970-02-28,1971-03-14,1,1565000,Rodríguez-azzi,Loao,1944-07-21,25,Argentina,DG,D,Titulaire,2,1,192,85,Benchetrit,Francesco,France,0.0,P00038
+CDD Sportif,1971-03-28,1973-03-18,2,1648000,Rodríguez-azzi,Loao,1944-07-21,26,Argentina,DG,D,Remplaçant,3,1,192,85,Benchetrit,Francesco,France,1.0,P00038
+CDD Sportif,1973-04-14,1975-04-13,2,1881000,Rodríguez-azzi,Loao,1944-07-21,28,Argentina,DG,D,Remplaçant,3,1,192,85,Benchetrit,Francesco,France,3.0,P00038
+CDD Sportif,1970-04-23,1973-04-21,3,674000,Rodríguez-ski,Saora,1950-02-09,20,Brazil,GK,G,Reserviste,2,1,194,84,Rosell,Yusef,Spain,0.0,P00041
+CDD Sportif,1973-06-02,1974-06-06,1,1725000,Rodríguez-ski,Saora,1950-02-09,23,Brazil,GK,G,Titulaire,2,1,194,84,Rosell,Yusef,Spain,3.0,P00041
+CDD Sportif,1974-07-19,1977-07-20,3,2131000,Rodríguez-ski,Saora,1950-02-09,24,Brazil,GK,G,Titulaire,2,1,194,84,Rosell,Yusef,Spain,4.0,P00041
+CDD Sportif,1977-09-07,1978-08-25,1,2380000,Rodríguez-ski,Saora,1950-02-09,27,Brazil,GK,G,Titulaire,2,2,194,84,Rosell,Yusef,Spain,7.0,P00041
+CDD Sportif,1978-10-18,1983-10-06,5,2347000,Rodríguez-ski,Saora,1950-02-09,28,Brazil,GK,G,Remplaçant,2,2,194,84,Rosell,Yusef,Spain,8.0,P00041
+CDD Sportif,1983-11-01,1987-08-04,5,2501000,Rodríguez-ski,Saora,1950-02-09,33,Brazil,GK,G,Titulaire,2,2,194,84,Rosell,Yusef,Spain,13.0,P00041
+CDD Sportif,1970-04-09,1974-04-19,4,1872000,Romano,Jonathan,1946-02-16,24,Spain,DG,D,Titulaire,4,2,180,73,Barnett,Jorge,UK,0.0,P00061
+CDD Sportif,1994-03-10,1997-03-08,3,897000,Romano,Marco,1975-01-17,19,England,DD,G,Remplaçant,4,3,192,87,Bozzo,Sacha,Italy,0.0,P00124
+CDD Sportif,1997-04-30,2002-05-05,5,2082000,Romano,Marco,1975-01-17,22,England,DD,G,Titulaire,4,2,192,87,Bozzo,Sacha,Italy,3.0,P00124
+CDD Sportif,2002-06-26,2006-06-23,4,2918000,Romano,Marco,1975-01-17,27,England,DD,G,Titulaire,4,2,192,87,Bozzo,Sacha,Italy,8.0,P00124
+CDD Sportif,1970-08-19,1974-08-04,4,1470000,Romano,Álvaro,1939-01-25,31,Germany,AD,D,Remplaçant,2,1,192,74,De la Croix,Pierre,France,0.0,P00034
+CDD Sportif,1970-08-25,1974-09-07,4,1219000,Romano-mano,Yoawor,1950-05-24,20,Senegal,MD,D,Titulaire indiscutable,2,3,181,73,Iaque,Matthias,Italy,0.0,P00021
+CDD Sportif,1974-11-04,1977-10-17,3,2142000,Romano-mano,Yoawor,1950-05-24,24,Senegal,MD,D,Titulaire,2,3,181,73,Iaque,Matthias,Italy,4.0,P00021
+CDD Sportif,1977-11-17,1979-12-04,2,2453000,Romano-mano,Yoawor,1950-05-24,27,Senegal,MD,D,Titulaire,2,3,181,73,Iaque,Matthias,Italy,7.0,P00021
+CDD Sportif,1979-12-05,1982-12-23,3,2643000,Romano-mano,Yoawor,1950-05-24,29,Senegal,MD,D,Titulaire,2,3,181,73,Iaque,Matthias,Italy,9.0,P00021
+CDD Sportif,1983-02-02,1984-01-27,1,1797000,Romano-mano,Yoawor,1950-05-24,32,Senegal,MD,D,Remplaçant,2,3,181,73,Iaque,Matthias,Italy,12.0,P00021
+CDD Sportif,1984-03-23,1986-04-08,2,1793000,Romano-mano,Yoawor,1950-05-24,33,Senegal,MD,D,Remplaçant,2,3,181,73,Iaque,Matthias,Italy,13.0,P00021
+CDD Sportif,1986-04-17,1988-05-03,2,1578000,Romano-mano,Yoawor,1950-05-24,35,Senegal,MD,D,Remplaçant,2,3,181,73,Iaque,Matthias,Italy,15.0,P00021
+CDD Sportif,1988-05-10,1989-02-19,1,1312000,Romano-mano,Yoawor,1950-05-24,37,Senegal,MD,D,Remplaçant,2,3,181,73,Iaque,Matthias,Italy,17.0,P00021
+CDD Sportif,2003-03-22,2008-03-06,5,1280000,Rossi,Alexis,1981-02-21,22,England,MC,D,Remplaçant,4,1,170,62,Iaque,Matthias,Italy,0.0,P00159
+CDD Sportif,2008-05-03,2011-04-29,3,2177000,Rossi,Alexis,1981-02-21,27,England,MDC,D,Remplaçant,4,1,170,62,Iaque,Matthias,Italy,5.0,P00159
+CDD Sportif,2011-06-20,2016-06-04,5,1980000,Rossi,Alexis,1981-02-21,30,England,MDC,D,Reserviste,4,1,170,62,Iaque,Matthias,Italy,8.0,P00159
+CDD Sportif,2016-06-15,2018-11-13,4,2192000,Rossi,Alexis,1981-02-21,35,England,MDC,D,Titulaire,4,1,170,62,Iaque,Matthias,Italy,13.0,P00159
+CDD Sportif,1970-11-22,1973-11-01,3,2054000,Rossi,Nicolás,1943-04-17,27,Spain,MC,D,Titulaire,3,2,182,76,De la Croix,Pierre,France,0.0,P00030
+CDD Sportif,1970-03-27,1972-04-02,2,1164000,Rossi,Sergio,1951-02-21,19,Italy,DC,D,Titulaire indiscutable,4,3,186,82,Bozzo,Sacha,Italy,0.0,P00054
+CDD Sportif,1989-02-08,1991-01-31,2,1980000,Rossi,Álvaro,1963-08-08,25,France,BU,D,Titulaire indiscutable,3,2,182,68,Giacomo,Daniel,Italy,0.0,P00106
+CDD Sportif,1991-02-21,1995-02-17,4,2721000,Rossi,Álvaro,1963-08-08,27,France,BU,D,Titulaire indiscutable,3,2,182,68,Giacomo,Daniel,Italy,2.0,P00106
+CDD Sportif,1995-04-12,1998-04-22,3,2419000,Rossi,Álvaro,1963-08-08,31,France,BU,D,Titulaire,3,2,182,68,Giacomo,Daniel,Italy,6.0,P00106
+CDD Sportif,1970-10-07,1971-10-25,1,616000,Rossi-ski,Anetheo,1950-04-19,20,England,DC,D,Reserviste,2,1,185,73,Antunes,Pini,Portugal,0.0,P00013
+CDD Sportif,1970-04-19,1972-04-13,2,1561000,Saliba,Antoine,1938-05-15,31,Brazil,DG,D,Remplaçant,4,3,187,82,De la Croix,Pierre,France,0.0,P00043
+CDD Sportif,1972-05-07,1975-05-01,3,2149000,Saliba,Antoine,1938-05-15,34,Brazil,DG,D,Titulaire indiscutable,4,3,187,82,De la Croix,Pierre,France,2.0,P00043
+CDD Sportif,1975-06-22,1977-04-11,2,1779000,Saliba,Antoine,1938-05-15,37,Brazil,DG,D,Titulaire indiscutable,4,3,187,82,De la Croix,Pierre,France,5.0,P00043
+CDD Sportif,1970-08-28,1973-08-30,3,2041000,Saliba,Aurélien,1943-05-07,27,France,MDC,G,Titulaire,3,3,183,75,Zahavi,Miguel,Israel,0.0,P00029
+CDD Sportif,1977-11-11,1980-11-15,3,1518000,Saliba,Aurélien,1943-05-07,34,France,MDC,G,Remplaçant,3,3,183,75,Zahavi,Miguel,Israel,3.0,P00029
+CDD Sportif,1980-12-09,1982-04-17,4,1840000,Saliba,Aurélien,1943-05-07,37,France,MDC,G,Titulaire indiscutable,3,3,183,75,Zahavi,Miguel,Israel,6.0,P00029
+CDD Sportif,2024-03-15,2027-04-03,3,1685000,Saliba,Ismaïla,1998-03-03,26,Brazil,GK,D,Remplaçant,4,2,186,78,Sissoko,Mino,France,0.0,P00231
+CDD Sportif,2016-01-18,2018-01-29,2,547000,Saliba-azzi,Kaodi,1997-04-18,18,France,BU,D,Remplaçant,2,1,182,70,Iaque,Matthias,Italy,0.0,P00199
+CDD Sportif,2018-03-04,2022-02-20,4,907000,Saliba-azzi,Kaodi,1997-04-18,20,France,BU,D,Reserviste,2,1,182,70,Iaque,Matthias,Italy,2.0,P00199
+CDD Sportif,2022-04-01,2023-04-03,1,2305000,Saliba-azzi,Kaodi,1997-04-18,24,France,AD,D,Titulaire indiscutable,3,1,182,70,Iaque,Matthias,Italy,6.0,P00199
+CDD Sportif,2023-04-11,2025-04-22,2,1880000,Saliba-azzi,Kaodi,1997-04-18,25,France,AD,D,Remplaçant,3,1,182,70,Iaque,Matthias,Italy,7.0,P00199
+CDD Sportif,2025-05-05,2025-10-07,3,2183000,Saliba-azzi,Kaodi,1997-04-18,28,France,AD,D,Remplaçant,3,1,182,70,Iaque,Matthias,Italy,9.0,P00199
+CDD Sportif,2021-02-16,2023-02-19,2,1216000,Sanchez,Jules,2000-01-01,21,Argentina,MC,D,Titulaire indiscutable,2,1,171,68,Giacomo,Daniel,Italy,0.0,P00217
+CDD Sportif,1995-02-05,1997-01-21,2,496000,Sanchez,Karim,1978-07-16,16,France,MDC,D,Remplaçant,3,2,170,65,Campos,Andrea,Portugal,0.0,P00129
+CDD Sportif,1997-02-15,2002-01-30,5,1227000,Sanchez,Karim,1978-07-16,18,France,MDC,D,Titulaire,3,2,170,65,Campos,Andrea,Portugal,2.0,P00129
+CDD Sportif,2002-03-07,2003-03-19,1,1971000,Sanchez,Karim,1978-07-16,23,France,MDC,D,Titulaire,3,2,170,65,Campos,Andrea,Portugal,7.0,P00129
+CDD Sportif,2003-03-30,2007-04-10,4,2763000,Sanchez,Karim,1978-07-16,24,France,MDC,D,Titulaire indiscutable,3,2,170,65,Campos,Andrea,Portugal,8.0,P00129
+CDD Sportif,2007-04-27,2010-04-23,3,3000000,Sanchez,Karim,1978-07-16,28,France,MDC,D,Titulaire indiscutable,3,2,170,65,Campos,Andrea,Portugal,12.0,P00129
+CDD Sportif,2010-04-26,2011-04-09,1,1976000,Sanchez,Karim,1978-07-16,31,France,MDC,D,Remplaçant,3,2,170,65,Campos,Andrea,Portugal,15.0,P00129
+CDD Sportif,2011-05-03,2013-05-02,2,2046000,Sanchez,Karim,1978-07-16,32,France,MDC,D,Remplaçant,4,2,170,65,Campos,Andrea,Portugal,16.0,P00129
+CDD Sportif,2024-01-10,2026-01-01,2,2014000,Sanchez-azzi,Adoki,1997-07-24,26,Netherlands,MDC,D,Titulaire indiscutable,2,2,183,69,Sissoko,Mino,France,0.0,P00230
+CDD Sportif,1996-03-11,1997-03-12,1,732000,Sanchez-ez,Raodi,1975-08-23,20,Brazil,GK,G,Remplaçant,2,1,187,74,Silva,David,Portugal,0.0,P00131
+CDD Sportif,1997-03-12,1999-03-07,2,1473000,Sanchez-ez,Raodi,1975-08-23,21,Brazil,GK,G,Titulaire indiscutable,2,1,187,74,Silva,David,Portugal,1.0,P00131
+CDD Sportif,1982-01-16,1984-01-21,2,1126000,Sarr,Amine,1960-11-12,21,Netherlands,MD,G,Titulaire,3,1,180,75,Mendes,Jean,Portugal,0.0,P00080
+CDD Sportif,2017-03-23,2018-03-21,1,1068000,Sarr-eiro,Naena,1994-09-03,22,England,MOC,G,Remplaçant,3,2,177,78,Mendes,Jean,Portugal,0.0,P00204
+CDD Sportif,2018-03-23,2020-03-23,2,1740000,Sarr-eiro,Naena,1994-09-03,23,England,MOC,G,Titulaire,3,2,177,78,Mendes,Jean,Portugal,1.0,P00204
+CDD Sportif,2020-04-28,2021-04-27,1,2115000,Sarr-eiro,Naena,1994-09-03,25,England,MOC,G,Titulaire,3,2,177,78,Mendes,Jean,Portugal,3.0,P00204
+CDD Sportif,2021-06-05,2022-06-14,1,1860000,Sarr-eiro,Naena,1994-09-03,26,England,MOC,G,Remplaçant,3,2,177,78,Mendes,Jean,Portugal,4.0,P00204
+CDD Sportif,2022-06-26,2025-06-08,3,2637000,Sarr-eiro,Naena,1994-09-03,27,England,MOC,G,Titulaire,3,2,177,78,Mendes,Jean,Portugal,5.0,P00204
+CDD Sportif,1988-01-03,1991-12-22,4,1033000,Sarr-ov,Quenoal,1968-08-18,19,Germany,GK,D,Titulaire,3,3,191,76,Zahavi,Miguel,Israel,0.0,P00101
+CDD Sportif,1970-10-20,1972-10-05,2,695000,Silva,Raphaël,1950-12-07,19,France,AG,D,Remplaçant,3,1,183,66,Barnett,Jorge,UK,0.0,P00033
+CDD Sportif,1972-11-01,1975-11-10,3,1239000,Silva,Raphaël,1950-12-07,21,France,AG,D,Remplaçant,3,1,183,66,Barnett,Jorge,UK,2.0,P00033
+CDD Sportif,1975-11-26,1979-11-21,4,2565000,Silva,Raphaël,1950-12-07,24,France,AG,D,Titulaire indiscutable,3,1,183,66,Barnett,Jorge,UK,5.0,P00033
+CDD Sportif,1980-01-06,1985-01-19,5,3000000,Silva,Raphaël,1950-12-07,29,France,AG,D,Titulaire indiscutable,3,1,183,66,Barnett,Jorge,UK,9.0,P00033
+CDD Sportif,1985-03-06,1987-02-24,2,1404000,Silva,Raphaël,1950-12-07,34,France,AG,D,Reserviste,3,1,183,66,Barnett,Jorge,UK,14.0,P00033
+CDD Sportif,1987-03-08,1989-08-01,4,2207000,Silva,Raphaël,1950-12-07,36,France,AG,D,Titulaire indiscutable,3,1,183,66,Barnett,Jorge,UK,16.0,P00033
+CDD Sportif,2025-02-09,2028-01-21,3,1786000,Silva-ez,Alelo,2001-05-23,23,France,DG,G,Titulaire indiscutable,4,1,185,77,Sissoko,Mino,France,0.0,P00233
+CDD Sportif,1979-03-14,1981-03-09,2,771000,Sánchez-ovic,Kaju,1960-05-10,18,Belgium,AG,D,Titulaire,3,2,179,73,Zahavi,Miguel,Israel,0.0,P00072
+CDD Sportif,1981-03-12,1986-03-03,5,1488000,Sánchez-ovic,Kaju,1960-05-10,20,Belgium,AG,D,Titulaire,3,2,179,73,Zahavi,Miguel,Israel,2.0,P00072
+CDD Sportif,1986-04-03,1989-04-02,3,2030000,Sánchez-ovic,Kaju,1960-05-10,25,Belgium,AG,D,Remplaçant,3,3,179,73,Zahavi,Miguel,Israel,7.0,P00072
+CDD Sportif,1989-04-29,1992-05-12,3,2260000,Sánchez-ovic,Kaju,1960-05-10,28,Belgium,AG,D,Remplaçant,3,3,179,73,Zahavi,Miguel,Israel,10.0,P00072
+CDD Sportif,1992-05-29,1995-06-01,3,2863000,Sánchez-ovic,Kaju,1960-05-10,32,Belgium,AG,D,Titulaire indiscutable,3,3,179,73,Zahavi,Miguel,Israel,13.0,P00072
+CDD Sportif,1995-07-06,2000-03-25,5,1536000,Sánchez-ovic,Kaju,1960-05-10,35,Belgium,AG,D,Reserviste,3,3,179,73,Zahavi,Miguel,Israel,16.0,P00072
+CDD Sportif,1986-04-19,1991-04-29,5,1311000,Thuram,Adrien,1953-04-12,33,France,AG,D,Remplaçant,3,1,169,67,Campos,Andrea,Portugal,0.0,P00093
+CDD Sportif,2022-02-16,2026-02-10,4,1986000,Thuram,Iker,1990-02-18,32,France,BU,D,Titulaire indiscutable,3,2,189,75,Campos,Andrea,Portugal,0.0,P00220
+CDD Sportif,1997-02-14,2001-02-26,4,826000,Thuram,Jonathan,1978-06-08,18,Portugal,GK,D,Titulaire,2,3,189,94,Raiola,Marco,Italy,0.0,P00139
+CDD Sportif,2001-03-15,2006-03-22,5,1996000,Thuram,Jonathan,1978-06-08,22,Portugal,GK,D,Titulaire,2,3,189,94,Raiola,Marco,Italy,4.0,P00139
+CDD Sportif,2006-04-24,2007-04-14,1,2481000,Thuram,Jonathan,1978-06-08,27,Portugal,GK,D,Titulaire,2,4,189,94,Raiola,Marco,Italy,9.0,P00139
+CDD Sportif,2007-05-13,2012-05-10,5,2032000,Thuram,Jonathan,1978-06-08,28,Portugal,GK,D,Reserviste,2,4,189,94,Raiola,Marco,Italy,10.0,P00139
+CDD Sportif,2012-05-17,2015-04-30,3,1992000,Thuram,Jonathan,1978-06-08,33,Portugal,GK,D,Remplaçant,2,4,189,94,Raiola,Marco,Italy,15.0,P00139
+CDD Sportif,2015-05-15,2017-07-23,4,2350000,Thuram,Jonathan,1978-06-08,36,Portugal,GK,D,Titulaire indiscutable,2,4,189,94,Raiola,Marco,Italy,18.0,P00139
+CDD Sportif,1970-09-23,1971-09-15,1,1163000,Thuram-ez,Quenoba,1948-02-03,22,Argentina,DC,D,Titulaire,2,1,187,79,Mendes,Jean,Portugal,0.0,P00011
+CDD Sportif,1971-11-04,1974-11-05,3,1658000,Thuram-ez,Quenoba,1948-02-03,23,Argentina,MDC,D,Titulaire,2,1,187,79,Mendes,Jean,Portugal,1.0,P00011
+CDD Sportif,1974-11-11,1975-11-01,1,2103000,Thuram-ez,Quenoba,1948-02-03,26,Argentina,MDC,D,Titulaire,2,1,187,79,Mendes,Jean,Portugal,4.0,P00011
+CDD Sportif,1996-03-30,1997-04-01,1,1422000,Upamecano,Diogo,1972-07-18,23,France,DD,D,Titulaire,4,1,189,76,Zeroual,Samir,Morocco,0.0,P00135
+CDD Sportif,1997-04-28,2000-04-08,3,1862000,Upamecano,Diogo,1972-07-18,24,France,DD,D,Titulaire,3,1,189,76,Zeroual,Samir,Morocco,1.0,P00135
+CDD Sportif,2000-05-22,2002-05-03,2,2636000,Upamecano,Diogo,1972-07-18,27,France,DD,D,Titulaire indiscutable,3,1,189,76,Zeroual,Samir,Morocco,4.0,P00135
+CDD Sportif,2002-06-20,2004-06-22,2,2746000,Upamecano,Diogo,1972-07-18,29,France,DD,D,Titulaire indiscutable,3,1,189,76,Zeroual,Samir,Morocco,6.0,P00135
+CDD Sportif,2004-08-03,2007-07-29,3,1896000,Upamecano,Diogo,1972-07-18,32,France,DD,D,Remplaçant,3,1,189,76,Zeroual,Samir,Morocco,8.0,P00135
+CDD Sportif,2007-07-29,2009-08-06,2,1842000,Upamecano,Diogo,1972-07-18,35,France,DD,D,Titulaire,3,1,189,76,Zeroual,Samir,Morocco,11.0,P00135
+CDD Sportif,1970-11-20,1975-11-25,5,742000,Upamecano,Jules,1952-08-06,18,England,MOC,D,Remplaçant,3,2,173,65,Benchetrit,Francesco,France,0.0,P00016
+CDD Sportif,1975-12-27,1977-12-18,2,1693000,Upamecano,Jules,1952-08-06,23,England,MOC,D,Remplaçant,3,2,173,65,Benchetrit,Francesco,France,5.0,P00016
+CDD Sportif,1977-12-22,1980-12-02,3,2904000,Upamecano,Jules,1952-08-06,25,England,MC,D,Titulaire indiscutable,3,2,173,65,Benchetrit,Francesco,France,7.0,P00016
+CDD Sportif,1980-12-02,1982-11-22,2,2259000,Upamecano,Jules,1952-08-06,28,England,MC,D,Remplaçant,3,3,173,65,Benchetrit,Francesco,France,10.0,P00016
+CDD Sportif,1982-12-25,1983-12-05,1,1795000,Upamecano,Jules,1952-08-06,30,England,MD,D,Reserviste,3,4,173,65,Benchetrit,Francesco,France,12.0,P00016
+CDD Sportif,1984-01-10,1987-12-29,4,3000000,Upamecano,Jules,1952-08-06,31,England,MD,D,Titulaire indiscutable,3,4,173,65,Benchetrit,Francesco,France,13.0,P00016
+CDD Sportif,1988-01-10,1988-03-02,1,2347000,Upamecano,Jules,1952-08-06,35,England,MD,D,Titulaire indiscutable,3,4,173,65,Benchetrit,Francesco,France,17.0,P00016
+CDD Sportif,2011-04-29,2013-04-24,2,1486000,Upamecano,Kalidou,1984-12-07,26,France,DD,D,Remplaçant,2,3,173,77,Ferreira,Hassan,Brazil,0.0,P00187
+CDD Sportif,2013-06-12,2016-06-17,3,1586000,Upamecano,Kalidou,1984-12-07,28,France,DD,D,Reserviste,2,3,173,77,Ferreira,Hassan,Brazil,2.0,P00187
+CDD Sportif,2016-07-09,2019-04-20,5,2050000,Upamecano,Kalidou,1984-12-07,31,France,DD,D,Remplaçant,2,3,173,77,Ferreira,Hassan,Brazil,5.0,P00187
+CDD Sportif,1970-03-30,1974-04-16,4,1454000,Upamecano-eiro,Mana,1937-12-05,32,Belgium,GK,D,Remplaçant,3,3,192,82,Silva,David,Portugal,0.0,P00056
+CDD Sportif,1974-06-02,1975-03-26,4,1342000,Upamecano-eiro,Mana,1937-12-05,36,Belgium,GK,D,Remplaçant,3,3,192,82,Silva,David,Portugal,4.0,P00056
+CDD Sportif,2007-02-21,2009-03-09,2,1046000,Upamecano-idis,Olu,1984-07-25,22,France,BU,D,Remplaçant,3,1,180,75,Zeroual,Samir,Morocco,0.0,P00177
+CDD Sportif,1984-02-15,1987-03-03,3,1676000,Upamecano-ov,Alatheo,1951-01-13,33,Brazil,MD,D,Titulaire indiscutable,2,1,180,73,Campos,Andrea,Portugal,0.0,P00090
+CDD Sportif,2022-01-22,2023-01-29,1,512000,Van Dijk,Tom,2005-03-04,16,France,DD,G,Titulaire,2,2,185,74,Iaque,Matthias,Italy,0.0,P00219
+CDD Sportif,2023-03-06,2024-03-24,1,985000,Van Dijk,Tom,2005-03-04,18,France,DD,G,Titulaire indiscutable,2,2,185,74,Iaque,Matthias,Italy,1.0,P00219
+CDD Sportif,2024-03-25,2025-10-07,3,1365000,Van Dijk,Tom,2005-03-04,19,France,DC,G,Titulaire indiscutable,2,2,185,74,Iaque,Matthias,Italy,2.0,P00219
+CDD Sportif,2001-03-11,2002-03-16,1,678000,Van Dijk-escu,Yooquen,1981-02-15,20,France,DC,G,Reserviste,4,1,187,85,Benchetrit,Francesco,France,0.0,P00153
+CDD Sportif,2002-04-05,2004-04-10,2,1436000,Van Dijk-escu,Yooquen,1981-02-15,21,France,DC,G,Titulaire,4,2,187,85,Benchetrit,Francesco,France,1.0,P00153
+CDD Sportif,2004-05-19,2007-05-23,3,2316000,Van Dijk-escu,Yooquen,1981-02-15,23,France,DD,G,Titulaire indiscutable,4,2,187,85,Benchetrit,Francesco,France,3.0,P00153
+CDD Sportif,2007-07-15,2010-07-21,3,2157000,Van Dijk-escu,Yooquen,1981-02-15,26,France,DD,G,Remplaçant,4,3,187,85,Benchetrit,Francesco,France,6.0,P00153
+CDD Sportif,2010-09-06,2014-08-26,4,2363000,Van Dijk-escu,Yooquen,1981-02-15,29,France,DD,G,Remplaçant,4,3,187,85,Benchetrit,Francesco,France,9.0,P00153
+CDD Sportif,2014-10-15,2015-10-09,1,2229000,Van Dijk-escu,Yooquen,1981-02-15,33,France,DD,G,Titulaire,4,3,187,85,Benchetrit,Francesco,France,13.0,P00153
+CDD Sportif,1970-01-14,1973-01-27,3,810000,Varane,Clément,1951-02-19,18,Belgium,GK,D,Titulaire,3,2,186,79,Bozzo,Sacha,Italy,0.0,P00065
+CDD Sportif,1973-03-26,1975-03-30,2,1913000,Varane,Clément,1951-02-19,22,Belgium,GK,D,Titulaire indiscutable,2,3,186,79,Bozzo,Sacha,Italy,3.0,P00065
+CDD Sportif,1975-05-14,1980-05-10,5,1897000,Varane,Clément,1951-02-19,24,Belgium,GK,D,Remplaçant,1,4,186,79,Bozzo,Sacha,Italy,5.0,P00065
+CDD Sportif,2010-03-04,2014-03-21,4,789000,Varane,Hugo,1994-02-05,16,Germany,MG,D,Titulaire,4,3,176,70,Bozzo,Sacha,Italy,0.0,P00181
+CDD Sportif,2014-04-01,2017-04-16,3,1713000,Varane,Hugo,1994-02-05,20,Germany,MG,D,Titulaire,4,3,176,70,Bozzo,Sacha,Italy,4.0,P00181
+CDD Sportif,2017-06-06,2019-06-23,2,2228000,Varane,Hugo,1994-02-05,23,Germany,MG,D,Titulaire,4,3,176,70,Bozzo,Sacha,Italy,7.0,P00181
+CDD Sportif,2001-02-04,2004-02-17,3,1580000,Varane,João,1975-04-25,25,Spain,MG,D,Remplaçant,3,3,185,84,Bozzo,Sacha,Italy,0.0,P00154
+CDD Sportif,2004-03-28,2005-03-22,1,2378000,Varane,João,1975-04-25,28,Spain,MG,D,Titulaire,4,3,185,84,Bozzo,Sacha,Italy,3.0,P00154
+CDD Sportif,2010-01-23,2013-02-03,3,482000,Varane,Nathan,1994-01-18,16,Netherlands,MOC,D,Remplaçant,3,1,177,66,Zeroual,Samir,Morocco,0.0,P00180
+CDD Sportif,2013-03-31,2015-03-24,2,1249000,Varane,Nathan,1994-01-18,19,Netherlands,MOC,D,Titulaire,3,1,177,66,Zeroual,Samir,Morocco,3.0,P00180
+CDD Sportif,2015-05-08,2016-05-26,1,1277000,Varane,Nathan,1994-01-18,21,Netherlands,MOC,D,Remplaçant,3,1,177,66,Zeroual,Samir,Morocco,5.0,P00180
+CDD Sportif,2016-06-29,2019-07-12,3,1317000,Varane,Nathan,1994-01-18,22,Netherlands,MOC,D,Reserviste,3,1,177,66,Zeroual,Samir,Morocco,6.0,P00180
+CDD Sportif,2019-08-06,2020-08-14,1,1836000,Varane,Nathan,1994-01-18,25,Netherlands,MOC,D,Remplaçant,3,1,177,66,Zeroual,Samir,Morocco,9.0,P00180
+CDD Sportif,2020-08-25,2022-08-25,2,2486000,Varane,Nathan,1994-01-18,26,Netherlands,MOC,D,Titulaire,3,1,177,66,Zeroual,Samir,Morocco,10.0,P00180
+CDD Sportif,2022-09-13,2025-10-07,4,2253000,Varane,Nathan,1994-01-18,28,Netherlands,MOC,D,Remplaçant,2,1,177,66,Zeroual,Samir,Morocco,12.0,P00180
+CDD Sportif,1970-08-27,1973-08-10,3,1295000,Varane-ić,Jura,1945-12-21,24,France,DG,G,Remplaçant,2,1,176,68,Bolarinwa,Federico,Nigeria,0.0,P00010
+CDD Sportif,1973-08-21,1976-09-05,3,2612000,Varane-ić,Jura,1945-12-21,27,France,DG,G,Titulaire indiscutable,2,1,176,68,Bolarinwa,Federico,Nigeria,3.0,P00010
+CDD Sportif,1976-10-26,1977-10-21,1,2175000,Varane-ić,Jura,1945-12-21,30,France,DG,G,Titulaire,2,1,176,68,Bolarinwa,Federico,Nigeria,6.0,P00010
+CDD Sportif,1977-10-30,1981-08-17,5,2474000,Varane-ić,Jura,1945-12-21,31,France,MG,G,Titulaire,1,2,176,68,Bolarinwa,Federico,Nigeria,7.0,P00010
+CDD Sportif,2012-03-19,2017-04-01,5,2202000,Varane-opoulos,Loju,1982-10-12,29,France,DD,D,Titulaire,4,2,182,71,Iaque,Matthias,Italy,0.0,P00189
+CDD Sportif,2017-05-27,2018-05-24,1,2057000,Varane-opoulos,Loju,1982-10-12,34,France,DD,D,Titulaire indiscutable,4,2,182,71,Iaque,Matthias,Italy,5.0,P00189
+CDD Sportif,2018-06-02,2019-10-14,4,2206000,Varane-opoulos,Loju,1982-10-12,35,France,DC,D,Titulaire indiscutable,4,2,182,71,Iaque,Matthias,Italy,6.0,P00189
+CDD Sportif,1991-02-21,1996-03-05,5,1524000,Ziyech,Marco,1965-03-20,25,Germany,DG,D,Remplaçant,2,1,181,75,Antunes,Pini,Portugal,0.0,P00110
+CDD Sportif,1970-08-15,1974-08-23,4,2355000,Ziyech-opoulos,Lualu,1941-06-20,29,Argentina,MG,D,Titulaire indiscutable,3,2,171,68,Campos,Andrea,Portugal,0.0,P00019
+CDD Sportif,1974-10-16,1975-10-26,1,1924000,Ziyech-opoulos,Lualu,1941-06-20,33,Argentina,MG,D,Titulaire,4,2,171,68,Campos,Andrea,Portugal,4.0,P00019
+CDD Sportif,1975-10-29,1976-11-06,1,1530000,Ziyech-opoulos,Lualu,1941-06-20,34,Argentina,MG,D,Remplaçant,4,3,171,68,Campos,Andrea,Portugal,5.0,P00019

@@ -7,3 +7,6 @@
 # To install optional runtime dependencies, uncomment the lines above and run:
 #   pip install -r requirements.txt
 
+# Image processing
+pillow==10.1.0
+
